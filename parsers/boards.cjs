@@ -9,9 +9,10 @@ function parseBoards(gamedataDir) {
   const allBoards = [boardsData.defaultBoard, ...boardsData.boards];
   for (const board of allBoards) {
     const boardId = board.dataTag.toString();
-    const boardName = boardNames[boardId] || `Unknown_${boardId}`;
+    const boardName = boardNames[boardId] || board.localizationKey || `Unknown_${boardId}`;
     
     boardsDict[board.dataTag] = {
+      id: parseInt(board.dataTag),
       name: boardName,
       localizationKey: board.localizationKey,
       isDefault: board.dataTag === boardsData.defaultBoard.dataTag,

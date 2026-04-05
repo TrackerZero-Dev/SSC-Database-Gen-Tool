@@ -11,17 +11,20 @@ export interface Metadata {
   boards?: FileMetadata;
   seasons?: FileMetadata;
   city_tour?: FileMetadata;
+  trials?: FileMetadata;
 }
 
 export interface Surfer {
+  id: number;
   name: string;
-  defaultSkinId: string;
+  defaultSkinId: number;
   available: boolean;
   unlockType: number;
   skinIds: number[];
 }
 
 export interface Skin {
+  id: number;
   name: string;
   localizationKey: string;
   available: boolean;
@@ -30,6 +33,7 @@ export interface Skin {
 }
 
 export interface Board {
+  id: number;
   name: string;
   localizationKey: string;
   isDefault: boolean;
@@ -41,22 +45,6 @@ export interface Season {
   name: string;
   start: string;
   end: string;
-}
-
-export interface CityTourStage {
-  [stage: string]: boolean[];
-}
-
-export interface CityTourChapter {
-  [chapter: string]: CityTourStage;
-}
-
-export interface CityTourMode {
-  [mode: string]: CityTourChapter;
-}
-
-export interface CityTourDistrict {
-  [district: string]: CityTourMode;
 }
 
 export interface SurfersDB {
@@ -75,6 +63,28 @@ export interface SeasonsDB {
   [id: string]: Season;
 }
 
+export interface CityTourChapterSchema {
+  id: number;
+  totalStages: number;
+  goalsPerStage: number;
+}
+
+export interface CityTourDistrictSchema {
+  id: number;
+  modes: string[];
+  chapters: CityTourChapterSchema[];
+}
+
 export interface CityTourDB {
-  [district: string]: CityTourMode;
+  districts: CityTourDistrictSchema[];
+}
+
+export interface TrialsCampaignSchema {
+  id: string;
+  modes: string[];
+  chapters: CityTourChapterSchema[];
+}
+
+export interface TrialsDB {
+  campaigns: TrialsCampaignSchema[];
 }

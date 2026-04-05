@@ -1,5 +1,6 @@
 {
   "1150862217": {
+    "id": 1150862217,
     "name": "ASH GREEN BLAZE",
     "localizationKey": "skins.ash.ash_greenorange",
     "available": true,
@@ -7,6 +8,7 @@
     "surferId": 966716028
   },
   "816980720": {
+    "id": 816980720,
     "name": "ASH STANDARD",
     "localizationKey": "skins.ash.ash_default",
     "available": true,
@@ -14,6 +16,7 @@
     "surferId": 966716028
   },
   "-1959135014": {
+    "id": -1959135014,
     "name": "BILLY FEVER DASH",
     "localizationKey": "skins.billy.billy_junglecammo",
     "available": true,
@@ -21,6 +24,7 @@
     "surferId": 581326566
   },
   "2025202852": {
+    "id": 2025202852,
     "name": "BILLY FIRE AND FLAMES",
     "localizationKey": "skins.billy.billy_flames",
     "available": false,
@@ -28,6 +32,7 @@
     "surferId": 581326566
   },
   "-1067636066": {
+    "id": -1067636066,
     "name": "BILLY LEGENDARY",
     "localizationKey": "skins.billy.billy_legendary",
     "available": true,
@@ -35,6 +40,7 @@
     "surferId": 581326566
   },
   "27667358": {
+    "id": 27667358,
     "name": "BILLY STANDARD",
     "localizationKey": "skins.billy.billy_default",
     "available": true,
@@ -42,6 +48,7 @@
     "surferId": 581326566
   },
   "-93943772": {
+    "id": -93943772,
     "name": "ELLA HELLO YELLOW",
     "localizationKey": "skins.ella.ella_yellowblack",
     "available": true,
@@ -49,6 +56,7 @@
     "surferId": 1200047034
   },
   "1990369193": {
+    "id": 1990369193,
     "name": "ELLA LEGENDARY",
     "localizationKey": "skins.ella.ella_legendary",
     "available": true,
@@ -56,6 +64,7 @@
     "surferId": 1200047034
   },
   "1508371367": {
+    "id": 1508371367,
     "name": "ELLA PURPLE HAZE",
     "localizationKey": "skins.ella.ella_purple",
     "available": false,
@@ -63,6 +72,7 @@
     "surferId": 1200047034
   },
   "-989991611": {
+    "id": -989991611,
     "name": "ELLA STANDARD",
     "localizationKey": "skins.ella.ella_default",
     "available": true,
@@ -70,6 +80,7 @@
     "surferId": 1200047034
   },
   "772685907": {
+    "id": 772685907,
     "name": "FRESH COOL VIBES",
     "localizationKey": "skins.fresh.fresh_purple",
     "available": true,
@@ -77,6 +88,7 @@
     "surferId": 2129411796
   },
   "-1292355720": {
+    "id": -1292355720,
     "name": "FRESH CREW STYLE",
     "localizationKey": "skins.fresh.fresh_redblack",
     "available": true,
@@ -84,6 +96,7 @@
     "surferId": 2129411796
   },
   "1310049346": {
+    "id": 1310049346,
     "name": "FRESH LEGENDARY",
     "localizationKey": "skins.fresh.fresh_legendary",
     "available": true,
@@ -91,6 +104,7 @@
     "surferId": 2129411796
   },
   "1202249944": {
+    "id": 1202249944,
     "name": "FRESH STANDARD",
     "localizationKey": "skins.fresh.fresh_default",
     "available": true,
@@ -98,6 +112,7 @@
     "surferId": 2129411796
   },
   "1136726127": {
+    "id": 1136726127,
     "name": "GEORGIE BLING",
     "localizationKey": "skins.georgie.georgie_bling",
     "available": false,
@@ -105,6 +120,7 @@
     "surferId": -2125407733
   },
   "-1648267179": {
+    "id": -1648267179,
     "name": "GEORGIE IDOL SHIRT",
     "localizationKey": "skins.georgie.georgie_chicagobulls",
     "available": true,
@@ -112,6 +128,7 @@
     "surferId": -2125407733
   },
   "1119532892": {
+    "id": 1119532892,
     "name": "GEORGIE LEGENDARY",
     "localizationKey": "skins.georgie.georgie_legendary",
     "available": true,
@@ -119,6 +136,7 @@
     "surferId": -2125407733
   },
   "2085271833": {
+    "id": 2085271833,
     "name": "GEORGIE STANDARD",
     "localizationKey": "skins.georgie.georgie_default",
     "available": true,
@@ -126,6 +144,7 @@
     "surferId": -2125407733
   },
   "0": {
+    "id": 0,
     "name": "HARINI STANDARD",
     "localizationKey": "skins.harini.harini_standard",
     "available": true,
@@ -133,6 +152,7 @@
     "surferId": 823378763
   },
   "374299079": {
+    "id": 374299079,
     "name": "JAEWOO LEGENDARY",
     "localizationKey": "skins.jaewoo.jaewoo_legendary",
     "available": true,
@@ -140,6 +160,7 @@
     "surferId": -1733051898
   },
   "-1360992679": {
+    "id": -1360992679,
     "name": "JAEWOO POISON STING",
     "localizationKey": "skins.jaewoo.jaewoo_blackmagenta",
     "available": true,
@@ -147,6 +168,7 @@
     "surferId": -1733051898
   },
   "-1505271108": {
+    "id": -1505271108,
     "name": "JAEWOO PURPLE FAME",
     "localizationKey": "skins.jaewoo.jaewoo_greenpurple",
     "available": false,
@@ -154,6 +176,7 @@
     "surferId": -1733051898
   },
   "-1312276630": {
+    "id": -1312276630,
     "name": "JAEWOO STANDARD",
     "localizationKey": "skins.jaewoo.jaewoo_default",
     "available": true,
@@ -161,6 +184,7 @@
     "surferId": -1733051898
   },
   "-960954917": {
+    "id": -960954917,
     "name": "JAKE CREW STYLE",
     "localizationKey": "skins.jake.jake_redblack",
     "available": true,
@@ -168,6 +192,7 @@
     "surferId": -1836944478
   },
   "-1186298654": {
+    "id": -1186298654,
     "name": "JAKE GOLDEN BOY",
     "localizationKey": "skins.jake.jake_yellow",
     "available": true,
@@ -175,6 +200,7 @@
     "surferId": -1836944478
   },
   "-1882385935": {
+    "id": -1882385935,
     "name": "JAKE INCOGNITO",
     "localizationKey": "skins.jake.jake_incognito",
     "available": false,
@@ -182,6 +208,7 @@
     "surferId": -1836944478
   },
   "-848432295": {
+    "id": -848432295,
     "name": "JAKE IRUNNER",
     "localizationKey": "skins.jake.jake_apple",
     "available": false,
@@ -189,6 +216,7 @@
     "surferId": -1836944478
   },
   "-1087452012": {
+    "id": -1087452012,
     "name": "JAKE LEGENDARY",
     "localizationKey": "skins.jake.jake_legendary",
     "available": true,
@@ -196,6 +224,7 @@
     "surferId": -1836944478
   },
   "-56800546": {
+    "id": -56800546,
     "name": "JAKE STANDARD",
     "localizationKey": "skins.jake.jake_default",
     "available": true,
@@ -203,6 +232,7 @@
     "surferId": -1836944478
   },
   "213457242": {
+    "id": 213457242,
     "name": "JAKE TRACK STAR",
     "localizationKey": "skins.jake.jake_google",
     "available": false,
@@ -210,6 +240,7 @@
     "surferId": -1836944478
   },
   "-1566346654": {
+    "id": -1566346654,
     "name": "JAY LEGENDARY",
     "localizationKey": "skins.jay.jay_legendary",
     "available": true,
@@ -217,6 +248,7 @@
     "surferId": 1120354844
   },
   "-152602730": {
+    "id": -152602730,
     "name": "JAY RAINBOW SKY",
     "localizationKey": "skins.jay.jay_cali",
     "available": true,
@@ -224,6 +256,7 @@
     "surferId": 1120354844
   },
   "-2145465549": {
+    "id": -2145465549,
     "name": "JAY STANDARD",
     "localizationKey": "skins.jay.jay_default",
     "available": true,
@@ -231,6 +264,7 @@
     "surferId": 1120354844
   },
   "-1287581543": {
+    "id": -1287581543,
     "name": "JENNY SOUL STITCH",
     "localizationKey": "skins.jenny.jenny_colorpatches",
     "available": true,
@@ -238,6 +272,7 @@
     "surferId": 1363767693
   },
   "362958220": {
+    "id": 362958220,
     "name": "JENNY STANDARD",
     "localizationKey": "skins.jenny.jenny_default",
     "available": true,
@@ -245,6 +280,7 @@
     "surferId": 1363767693
   },
   "-1597270950": {
+    "id": -1597270950,
     "name": "LILAH OUTDOOR",
     "localizationKey": "skins.lilah.lilah_greencammo",
     "available": true,
@@ -252,6 +288,7 @@
     "surferId": -2116248615
   },
   "-789829533": {
+    "id": -789829533,
     "name": "LILAH STANDARD",
     "localizationKey": "skins.lilah.lilah_default",
     "available": true,
@@ -259,6 +296,7 @@
     "surferId": -2116248615
   },
   "-122811436": {
+    "id": -122811436,
     "name": "LUCY DARK ORCHID",
     "localizationKey": "skins.lucy.lucy_purple",
     "available": true,
@@ -266,6 +304,7 @@
     "surferId": 852717139
   },
   "1973379545": {
+    "id": 1973379545,
     "name": "LUCY GRAVE QUEEN",
     "localizationKey": "skins.lucy.lucy_gravequeen",
     "available": true,
@@ -273,6 +312,7 @@
     "surferId": 852717139
   },
   "1076495376": {
+    "id": 1076495376,
     "name": "LUCY LEGENDARY",
     "localizationKey": "skins.lucy.lucy_legendary",
     "available": true,
@@ -280,6 +320,7 @@
     "surferId": 852717139
   },
   "726823100": {
+    "id": 726823100,
     "name": "LUCY STANDARD",
     "localizationKey": "skins.lucy.lucy_default",
     "available": true,
@@ -287,6 +328,7 @@
     "surferId": 852717139
   },
   "1154305282": {
+    "id": 1154305282,
     "name": "MISS MAIA CREW STYLE",
     "localizationKey": "skins.missmaia.missmaia_redblack",
     "available": true,
@@ -294,6 +336,7 @@
     "surferId": 1614866432
   },
   "577316046": {
+    "id": 577316046,
     "name": "MISS MAIA LEGENDARY",
     "localizationKey": "skins.missmaia.missmaia_legendary",
     "available": true,
@@ -301,6 +344,7 @@
     "surferId": 1614866432
   },
   "-1083767387": {
+    "id": -1083767387,
     "name": "MISS MAIA STANDARD",
     "localizationKey": "skins.missmaia.missmaia_default",
     "available": true,
@@ -308,6 +352,7 @@
     "surferId": 1614866432
   },
   "775756685": {
+    "id": 775756685,
     "name": "MISS MAIA SUMMER REBEL",
     "localizationKey": "skins.missmaia.missmaia_orangeblue",
     "available": true,
@@ -315,6 +360,7 @@
     "surferId": 1614866432
   },
   "1335121268": {
+    "id": 1335121268,
     "name": "MONIQUE GREEN SAVIOR",
     "localizationKey": "skins.monique.monique_greenmustard",
     "available": true,
@@ -322,6 +368,7 @@
     "surferId": 135046766
   },
   "-1415696609": {
+    "id": -1415696609,
     "name": "MONIQUE STANDARD",
     "localizationKey": "skins.monique.monique_default",
     "available": true,
@@ -329,6 +376,7 @@
     "surferId": 135046766
   },
   "-1253901889": {
+    "id": -1253901889,
     "name": "NINJA ONE LEGENDARY",
     "localizationKey": "skins.ninjaone.ninja_one_legendary",
     "available": true,
@@ -336,6 +384,7 @@
     "surferId": 1804257387
   },
   "-672918755": {
+    "id": -672918755,
     "name": "NINJA ONE MONOFANTASTIC",
     "localizationKey": "skins.ninjaone.ninja_one_gray",
     "available": true,
@@ -343,6 +392,7 @@
     "surferId": 1804257387
   },
   "1189151463": {
+    "id": 1189151463,
     "name": "NINJA ONE STANDARD",
     "localizationKey": "skins.ninjaone.ninja_one_default",
     "available": true,
@@ -350,6 +400,7 @@
     "surferId": 1804257387
   },
   "1962475607": {
+    "id": 1962475607,
     "name": "NOON STANDARD",
     "localizationKey": "skins.noon.noon_default",
     "available": true,
@@ -357,6 +408,7 @@
     "surferId": -502265868
   },
   "748483822": {
+    "id": 748483822,
     "name": "NOON TRUE BLUE",
     "localizationKey": "skins.noon.noon_blue",
     "available": true,
@@ -364,6 +416,7 @@
     "surferId": -502265868
   },
   "1781172277": {
+    "id": 1781172277,
     "name": "PRINCE K CRIMSON BLAZE",
     "localizationKey": "skins.princek.princek_red",
     "available": true,
@@ -371,6 +424,7 @@
     "surferId": 1936280213
   },
   "-1112152883": {
+    "id": -1112152883,
     "name": "PRINCE K STANDARD",
     "localizationKey": "skins.princek.princek_default",
     "available": true,
@@ -378,6 +432,7 @@
     "surferId": 1936280213
   },
   "389528075": {
+    "id": 389528075,
     "name": "ROSALITA CHICANA",
     "localizationKey": "skins.rosalita.rosalita_blackburgundy",
     "available": true,
@@ -385,6 +440,7 @@
     "surferId": -1505268145
   },
   "-1487295210": {
+    "id": -1487295210,
     "name": "ROSALITA LEGENDARY",
     "localizationKey": "skins.rosalita.rosalita_legendary",
     "available": true,
@@ -392,6 +448,7 @@
     "surferId": -1505268145
   },
   "-1389912410": {
+    "id": -1389912410,
     "name": "ROSALITA STANDARD",
     "localizationKey": "skins.rosalita.rosalita_default",
     "available": true,
@@ -399,6 +456,7 @@
     "surferId": -1505268145
   },
   "-1655542994": {
+    "id": -1655542994,
     "name": "SPIKE LEGENDARY",
     "localizationKey": "skins.spike.spike_legendary",
     "available": true,
@@ -406,6 +464,7 @@
     "surferId": 849273384
   },
   "-759788578": {
+    "id": -759788578,
     "name": "SPIKE RED REBEL",
     "localizationKey": "skins.spike.spike_redash",
     "available": true,
@@ -413,6 +472,7 @@
     "surferId": 849273384
   },
   "922134811": {
+    "id": 922134811,
     "name": "SPIKE STANDARD",
     "localizationKey": "skins.spike.spike_default",
     "available": true,
@@ -420,6 +480,7 @@
     "surferId": 849273384
   },
   "-209858400": {
+    "id": -209858400,
     "name": "TAGBOT LEGENDARY",
     "localizationKey": "skins.tagbot.tagbot_legendary",
     "available": true,
@@ -427,6 +488,7 @@
     "surferId": 1887684367
   },
   "1864637985": {
+    "id": 1864637985,
     "name": "TAGBOT SPORTS",
     "localizationKey": "skins.tagbot.tagbot_red",
     "available": true,
@@ -434,6 +496,7 @@
     "surferId": 1887684367
   },
   "-1236251198": {
+    "id": -1236251198,
     "name": "TAGBOT STANDARD",
     "localizationKey": "skins.tagbot.tagbot_default",
     "available": true,
@@ -441,6 +504,7 @@
     "surferId": 1887684367
   },
   "-1312184589": {
+    "id": -1312184589,
     "name": "TASHA BRING IT!",
     "localizationKey": "skins.tasha.tasha_green",
     "available": false,
@@ -448,6 +512,7 @@
     "surferId": 299562833
   },
   "288125499": {
+    "id": 288125499,
     "name": "TASHA CHEER!",
     "localizationKey": "skins.tasha.tasha_redwhite",
     "available": true,
@@ -455,6 +520,7 @@
     "surferId": 299562833
   },
   "-889435486": {
+    "id": -889435486,
     "name": "TASHA LEGENDARY",
     "localizationKey": "skins.tasha.tasha_legendary",
     "available": true,
@@ -462,6 +528,7 @@
     "surferId": 299562833
   },
   "-503301639": {
+    "id": -503301639,
     "name": "TASHA STANDARD",
     "localizationKey": "skins.tasha.tasha_default",
     "available": true,
@@ -469,6 +536,7 @@
     "surferId": 299562833
   },
   "1564209559": {
+    "id": 1564209559,
     "name": "TRICKY CREW STYLE",
     "localizationKey": "skins.tricky.tricky_redblack",
     "available": true,
@@ -476,6 +544,7 @@
     "surferId": 1900660162
   },
   "-1583432582": {
+    "id": -1583432582,
     "name": "TRICKY LEGENDARY",
     "localizationKey": "skins.tricky.tricky_legendary",
     "available": true,
@@ -483,6 +552,7 @@
     "surferId": 1900660162
   },
   "-820187263": {
+    "id": -820187263,
     "name": "TRICKY NEON STRIPES",
     "localizationKey": "skins.tricky.tricky_neon",
     "available": true,
@@ -490,6 +560,7 @@
     "surferId": 1900660162
   },
   "-72574065": {
+    "id": -72574065,
     "name": "TRICKY STANDARD",
     "localizationKey": "skins.tricky.tricky_default",
     "available": true,
@@ -497,6 +568,7 @@
     "surferId": 1900660162
   },
   "1014902922": {
+    "id": 1014902922,
     "name": "V3CTOR L3G3ND4RY",
     "localizationKey": "skins.v3ctor.v3ctor_legendary",
     "available": true,
@@ -504,6 +576,7 @@
     "surferId": -1534276928
   },
   "-1857764588": {
+    "id": -1857764588,
     "name": "V3CTOR PINK GLITCH",
     "localizationKey": "skins.v3ctor.v3ctor_pink",
     "available": true,
@@ -511,6 +584,7 @@
     "surferId": -1534276928
   },
   "666084587": {
+    "id": 666084587,
     "name": "V3CTOR ST4ND4RD",
     "localizationKey": "skins.v3ctor.v3ctor_default",
     "available": true,
@@ -518,6 +592,7 @@
     "surferId": -1534276928
   },
   "-2129570054": {
+    "id": -2129570054,
     "name": "V3CTOR VIRTU4L R3B3L",
     "localizationKey": "skins.v3ctor.v3ctor_vr",
     "available": false,
@@ -525,6 +600,7 @@
     "surferId": -1534276928
   },
   "-2092832313": {
+    "id": -2092832313,
     "name": "WEI STANDARD",
     "localizationKey": "skins.wei.wei_default",
     "available": true,
@@ -532,6 +608,7 @@
     "surferId": -518167090
   },
   "-871825427": {
+    "id": -871825427,
     "name": "WEI TRAVELLER'S HOODIE",
     "localizationKey": "skins.wei.wei_tealorange",
     "available": true,
@@ -539,6 +616,7 @@
     "surferId": -518167090
   },
   "-258476380": {
+    "id": -258476380,
     "name": "YUTANI CREW STYLE",
     "localizationKey": "skins.yutani.yutani_redblack",
     "available": true,
@@ -546,6 +624,7 @@
     "surferId": 1663244716
   },
   "1478947346": {
+    "id": 1478947346,
     "name": "YUTANI LEGENDARY",
     "localizationKey": "skins.yutani.yutani_legendary",
     "available": true,
@@ -553,6 +632,7 @@
     "surferId": 1663244716
   },
   "460586275": {
+    "id": 460586275,
     "name": "YUTANI STANDARD",
     "localizationKey": "skins.yutani.yutani_default",
     "available": true,
@@ -560,6 +640,7 @@
     "surferId": 1663244716
   },
   "1870421642": {
+    "id": 1870421642,
     "name": "ZARA HOLO DASH",
     "localizationKey": "skins.zara.zara_holozebra",
     "available": true,
@@ -567,6 +648,7 @@
     "surferId": -2075784936
   },
   "1093072756": {
+    "id": 1093072756,
     "name": "ZARA STANDARD",
     "localizationKey": "skins.zara.zara_default",
     "available": true,

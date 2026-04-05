@@ -1,7 +1,8 @@
 {
   "966716028": {
+    "id": 966716028,
     "name": "ASH",
-    "defaultSkinId": "816980720",
+    "defaultSkinId": 816980720,
     "available": false,
     "unlockType": 3,
     "skinIds": [
@@ -10,8 +11,9 @@
     ]
   },
   "581326566": {
+    "id": 581326566,
     "name": "BILLY",
-    "defaultSkinId": "27667358",
+    "defaultSkinId": 27667358,
     "available": true,
     "unlockType": 8,
     "skinIds": [
@@ -22,8 +24,9 @@
     ]
   },
   "1200047034": {
+    "id": 1200047034,
     "name": "ELLA",
-    "defaultSkinId": "-989991611",
+    "defaultSkinId": -989991611,
     "available": true,
     "unlockType": 9,
     "skinIds": [
@@ -34,8 +37,9 @@
     ]
   },
   "2129411796": {
+    "id": 2129411796,
     "name": "FRESH",
-    "defaultSkinId": "1202249944",
+    "defaultSkinId": 1202249944,
     "available": true,
     "unlockType": 0,
     "skinIds": [
@@ -46,8 +50,9 @@
     ]
   },
   "-2125407733": {
+    "id": -2125407733,
     "name": "GEORGIE",
-    "defaultSkinId": "2085271833",
+    "defaultSkinId": 2085271833,
     "available": false,
     "unlockType": 3,
     "skinIds": [
@@ -58,8 +63,9 @@
     ]
   },
   "823378763": {
+    "id": 823378763,
     "name": "HARINI",
-    "defaultSkinId": "0",
+    "defaultSkinId": 0,
     "available": false,
     "unlockType": 3,
     "skinIds": [
@@ -67,8 +73,9 @@
     ]
   },
   "-1733051898": {
+    "id": -1733051898,
     "name": "JAEWOO",
-    "defaultSkinId": "-1312276630",
+    "defaultSkinId": -1312276630,
     "available": true,
     "unlockType": 8,
     "skinIds": [
@@ -79,8 +86,9 @@
     ]
   },
   "-1836944478": {
+    "id": -1836944478,
     "name": "JAKE",
-    "defaultSkinId": "-56800546",
+    "defaultSkinId": -56800546,
     "available": true,
     "unlockType": 0,
     "skinIds": [
@@ -94,8 +102,9 @@
     ]
   },
   "1120354844": {
+    "id": 1120354844,
     "name": "JAY",
-    "defaultSkinId": "-2145465549",
+    "defaultSkinId": -2145465549,
     "available": true,
     "unlockType": 9,
     "skinIds": [
@@ -105,8 +114,9 @@
     ]
   },
   "1363767693": {
+    "id": 1363767693,
     "name": "JENNY",
-    "defaultSkinId": "362958220",
+    "defaultSkinId": 362958220,
     "available": false,
     "unlockType": 3,
     "skinIds": [
@@ -115,8 +125,9 @@
     ]
   },
   "-2116248615": {
+    "id": -2116248615,
     "name": "LILAH",
-    "defaultSkinId": "-789829533",
+    "defaultSkinId": -789829533,
     "available": false,
     "unlockType": 3,
     "skinIds": [
@@ -125,8 +136,9 @@
     ]
   },
   "852717139": {
+    "id": 852717139,
     "name": "LUCY",
-    "defaultSkinId": "726823100",
+    "defaultSkinId": 726823100,
     "available": false,
     "unlockType": 3,
     "skinIds": [
@@ -137,8 +149,9 @@
     ]
   },
   "1614866432": {
+    "id": 1614866432,
     "name": "MISS MAIA",
-    "defaultSkinId": "-1083767387",
+    "defaultSkinId": -1083767387,
     "available": true,
     "unlockType": 4,
     "skinIds": [
@@ -149,8 +162,9 @@
     ]
   },
   "135046766": {
+    "id": 135046766,
     "name": "MONIQUE",
-    "defaultSkinId": "-1415696609",
+    "defaultSkinId": -1415696609,
     "available": false,
     "unlockType": 3,
     "skinIds": [
@@ -159,8 +173,9 @@
     ]
   },
   "1804257387": {
+    "id": 1804257387,
     "name": "NINJA ONE",
-    "defaultSkinId": "1189151463",
+    "defaultSkinId": 1189151463,
     "available": true,
     "unlockType": 2,
     "skinIds": [
@@ -170,8 +185,9 @@
     ]
   },
   "-502265868": {
+    "id": -502265868,
     "name": "NOON",
-    "defaultSkinId": "1962475607",
+    "defaultSkinId": 1962475607,
     "available": false,
     "unlockType": 3,
     "skinIds": [
@@ -180,8 +196,9 @@
     ]
   },
   "1936280213": {
+    "id": 1936280213,
     "name": "PRINCE K",
-    "defaultSkinId": "-1112152883",
+    "defaultSkinId": -1112152883,
     "available": false,
     "unlockType": 3,
     "skinIds": [
@@ -190,8 +207,9 @@
     ]
   },
   "-1505268145": {
+    "id": -1505268145,
     "name": "ROSALITA",
-    "defaultSkinId": "-1389912410",
+    "defaultSkinId": -1389912410,
     "available": true,
     "unlockType": 8,
     "skinIds": [
@@ -201,8 +219,9 @@
     ]
   },
   "849273384": {
+    "id": 849273384,
     "name": "SPIKE",
-    "defaultSkinId": "922134811",
+    "defaultSkinId": 922134811,
     "available": true,
     "unlockType": 9,
     "skinIds": [
@@ -212,8 +231,9 @@
     ]
   },
   "1887684367": {
+    "id": 1887684367,
     "name": "TAGBOT",
-    "defaultSkinId": "-1236251198",
+    "defaultSkinId": -1236251198,
     "available": true,
     "unlockType": 8,
     "skinIds": [
@@ -223,8 +243,9 @@
     ]
   },
   "299562833": {
+    "id": 299562833,
     "name": "TASHA",
-    "defaultSkinId": "-503301639",
+    "defaultSkinId": -503301639,
     "available": true,
     "unlockType": 8,
     "skinIds": [
@@ -235,8 +256,9 @@
     ]
   },
   "1900660162": {
+    "id": 1900660162,
     "name": "TRICKY",
-    "defaultSkinId": "-72574065",
+    "defaultSkinId": -72574065,
     "available": true,
     "unlockType": 0,
     "skinIds": [
@@ -247,8 +269,9 @@
     ]
   },
   "-1534276928": {
+    "id": -1534276928,
     "name": "V3CTOR",
-    "defaultSkinId": "666084587",
+    "defaultSkinId": 666084587,
     "available": false,
     "unlockType": 3,
     "skinIds": [
@@ -259,8 +282,9 @@
     ]
   },
   "-518167090": {
+    "id": -518167090,
     "name": "WEI",
-    "defaultSkinId": "-2092832313",
+    "defaultSkinId": -2092832313,
     "available": false,
     "unlockType": 3,
     "skinIds": [
@@ -269,8 +293,9 @@
     ]
   },
   "1663244716": {
+    "id": 1663244716,
     "name": "YUTANI",
-    "defaultSkinId": "460586275",
+    "defaultSkinId": 460586275,
     "available": true,
     "unlockType": 9,
     "skinIds": [
@@ -280,8 +305,9 @@
     ]
   },
   "-2075784936": {
+    "id": -2075784936,
     "name": "ZARA",
-    "defaultSkinId": "1093072756",
+    "defaultSkinId": 1093072756,
     "available": false,
     "unlockType": 3,
     "skinIds": [

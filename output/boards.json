@@ -1,5 +1,6 @@
 {
   "-1702093280": {
+    "id": -1702093280,
     "name": "AQUILINE",
     "localizationKey": "lilah",
     "isDefault": false,
@@ -7,6 +8,7 @@
     "unlockType": 3
   },
   "369661746": {
+    "id": 369661746,
     "name": "COBWEB",
     "localizationKey": "lucy",
     "isDefault": false,
@@ -14,6 +16,7 @@
     "unlockType": 3
   },
   "-2014824727": {
+    "id": -2014824727,
     "name": "CY-BOARD",
     "localizationKey": "tagbot",
     "isDefault": false,
@@ -21,6 +24,7 @@
     "unlockType": 8
   },
   "-1995581156": {
+    "id": -1995581156,
     "name": "DAY OF THE SHRED",
     "localizationKey": "rosalita",
     "isDefault": false,
@@ -28,6 +32,7 @@
     "unlockType": 8
   },
   "-2028224723": {
+    "id": -2028224723,
     "name": "DJINN'S FORTUNE",
     "localizationKey": "princek",
     "isDefault": false,
@@ -35,6 +40,7 @@
     "unlockType": 3
   },
   "-875752536": {
+    "id": -875752536,
     "name": "DOG CITY",
     "localizationKey": "spike",
     "isDefault": false,
@@ -42,6 +48,7 @@
     "unlockType": 8
   },
   "857306595": {
+    "id": 857306595,
     "name": "ELECTRIC BLUE",
     "localizationKey": "default",
     "isDefault": true,
@@ -49,6 +56,7 @@
     "unlockType": 0
   },
   "-1101319815": {
+    "id": -1101319815,
     "name": "EYE OF THE VIPER",
     "localizationKey": "billy",
     "isDefault": false,
@@ -56,6 +64,7 @@
     "unlockType": 8
   },
   "-282672473": {
+    "id": -282672473,
     "name": "FLAME TAMER",
     "localizationKey": "monique",
     "isDefault": false,
@@ -63,6 +72,7 @@
     "unlockType": 3
   },
   "-1946062440": {
+    "id": -1946062440,
     "name": "G-TIGER",
     "localizationKey": "jaewoo",
     "isDefault": false,
@@ -70,6 +80,7 @@
     "unlockType": 8
   },
   "1346993456": {
+    "id": 1346993456,
     "name": "GLOBETROTTER",
     "localizationKey": "wei",
     "isDefault": false,
@@ -77,6 +88,7 @@
     "unlockType": 3
   },
   "-2027086747": {
+    "id": -2027086747,
     "name": "GRANDMASTER",
     "localizationKey": "fresh",
     "isDefault": false,
@@ -84,6 +96,7 @@
     "unlockType": 0
   },
   "-268124908": {
+    "id": -268124908,
     "name": "H4X0R",
     "localizationKey": "v3ctor",
     "isDefault": false,
@@ -91,6 +104,7 @@
     "unlockType": 3
   },
   "-1398156391": {
+    "id": -1398156391,
     "name": "HOME RUNNER",
     "localizationKey": "ash",
     "isDefault": false,
@@ -98,6 +112,7 @@
     "unlockType": 3
   },
   "-1569537423": {
+    "id": -1569537423,
     "name": "HONEYCOMB",
     "localizationKey": "missmaia",
     "isDefault": false,
@@ -105,6 +120,7 @@
     "unlockType": 8
   },
   "463203314": {
+    "id": 463203314,
     "name": "KNOCKOUT",
     "localizationKey": "noon",
     "isDefault": false,
@@ -112,6 +128,7 @@
     "unlockType": 3
   },
   "797961277": {
+    "id": 797961277,
     "name": "NAUGHTY & NICE",
     "localizationKey": "tricky",
     "isDefault": false,
@@ -119,6 +136,7 @@
     "unlockType": 0
   },
   "1092080220": {
+    "id": 1092080220,
     "name": "PAWSOME",
     "localizationKey": "harini",
     "isDefault": false,
@@ -126,6 +144,7 @@
     "unlockType": 3
   },
   "1016074756": {
+    "id": 1016074756,
     "name": "PEACE OF GRIND",
     "localizationKey": "jenny",
     "isDefault": false,
@@ -133,6 +152,7 @@
     "unlockType": 3
   },
   "-762458939": {
+    "id": -762458939,
     "name": "POUNCER",
     "localizationKey": "zara",
     "isDefault": false,
@@ -140,6 +160,7 @@
     "unlockType": 3
   },
   "-2089484430": {
+    "id": -2089484430,
     "name": "SPACED INVADER",
     "localizationKey": "yutani",
     "isDefault": false,
@@ -147,6 +168,7 @@
     "unlockType": 8
   },
   "-1017845163": {
+    "id": -1017845163,
     "name": "SUB SURF CLASSIC",
     "localizationKey": "classic",
     "isDefault": false,
@@ -154,6 +176,7 @@
     "unlockType": 6
   },
   "1389875337": {
+    "id": 1389875337,
     "name": "SUPER HOOPER",
     "localizationKey": "georgie",
     "isDefault": false,
@@ -161,6 +184,7 @@
     "unlockType": 3
   },
   "-487324792": {
+    "id": -487324792,
     "name": "SWEET STREET",
     "localizationKey": "tasha",
     "isDefault": false,
@@ -168,6 +192,7 @@
     "unlockType": 8
   },
   "821107692": {
+    "id": 821107692,
     "name": "TRASHER",
     "localizationKey": "jake",
     "isDefault": false,
@@ -175,6 +200,7 @@
     "unlockType": 0
   },
   "-1886993925": {
+    "id": -1886993925,
     "name": "VAUNTED",
     "localizationKey": "ella",
     "isDefault": false,
@@ -182,6 +208,7 @@
     "unlockType": 8
   },
   "-573684740": {
+    "id": -573684740,
     "name": "WAKIZASHI",
     "localizationKey": "ninjaone",
     "isDefault": false,
@@ -189,6 +216,7 @@
     "unlockType": 8
   },
   "-425685755": {
+    "id": -425685755,
     "name": "ZEPHYR CRUISER",
     "localizationKey": "nicky",
     "isDefault": false,

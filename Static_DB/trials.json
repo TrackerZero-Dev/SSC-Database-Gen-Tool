@@ -1,0 +1,26 @@
+{
+  "campaigns": [
+    {
+      "id": "speedpad-1",
+      "modes": ["Normal", "Hard"],
+      "chapters": [
+        {
+          "id": 1,
+          "totalStages": 5,
+          "goalsPerStage": 3
+        }
+      ]
+    },
+    {
+      "id": "speedpad-2",
+      "modes": ["Normal", "Hard"],
+      "chapters": [
+        {
+          "id": 1,
+          "totalStages": 5,
+          "goalsPerStage": 3
+        }
+      ]
+    }
+  ]
+}

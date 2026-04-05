@@ -3,7 +3,6 @@ const path = require('path');
 const { parseSurfersAndSkins } = require('./parsers/surfers.cjs');
 const { parseBoards } = require('./parsers/boards.cjs');
 const { parseSeasons } = require('./parsers/seasons.cjs');
-const { parseCityTour } = require('./parsers/city_tour.cjs');
 
 // --- TOGGLES ---
 // Change these to 1 (true) or 0 (false) to choose what to generate
@@ -12,7 +11,6 @@ const GENERATE = {
   skins: 1,
   boards: 1,
   seasons: 1,
-  cityTour: 1,
   metadata: 1
 };
 
@@ -24,7 +22,7 @@ if (!fs.existsSync(outputDir)) {
 }
 
 console.log('Parsing game data...');
-let surfers, skins, boards, seasons, cityTour;
+let surfers, skins, boards, seasons;
 
 if (GENERATE.surfers || GENERATE.skins) {
   const parsed = parseSurfersAndSkins(gamedataDir);
@@ -36,9 +34,6 @@ if (GENERATE.boards) {
 }
 if (GENERATE.seasons) {
   seasons = parseSeasons(gamedataDir).seasons;
-}
-if (GENERATE.cityTour) {
-  cityTour = parseCityTour(gamedataDir).cityTour;
 }
 
 console.log('Writing modular JSON files...');
@@ -63,7 +58,6 @@ if (GENERATE.surfers) fs.writeFileSync(path.join(outputDir, 'surfers.json'), str
 if (GENERATE.skins) fs.writeFileSync(path.join(outputDir, 'skins.json'), stringifySortedByName(skins));
 if (GENERATE.boards) fs.writeFileSync(path.join(outputDir, 'boards.json'), stringifySortedByName(boards));
 if (GENERATE.seasons) fs.writeFileSync(path.join(outputDir, 'seasons.json'), stringifySortedByName(seasons));
-if (GENERATE.cityTour) fs.writeFileSync(path.join(outputDir, 'city_tour.json'), JSON.stringify(cityTour, null, 2));
 
 if (GENERATE.metadata) {
   const version = path.basename(gamedataDir).split('_')[1] || "unknown";
@@ -83,7 +77,6 @@ if (GENERATE.metadata) {
   if (GENERATE.skins) metadata.skins = { version, generatedAt };
   if (GENERATE.boards) metadata.boards = { version, generatedAt };
   if (GENERATE.seasons) metadata.seasons = { version, generatedAt };
-  if (GENERATE.cityTour) metadata.city_tour = { version, generatedAt };
 
   fs.writeFileSync(metadataPath, JSON.stringify(metadata, null, 2));
 }
@@ -102,17 +95,20 @@ export interface Metadata {
   boards?: FileMetadata;
   seasons?: FileMetadata;
   city_tour?: FileMetadata;
+  trials?: FileMetadata;
 }
 
 export interface Surfer {
+  id: number;
   name: string;
-  defaultSkinId: string;
+  defaultSkinId: number;
   available: boolean;
   unlockType: number;
   skinIds: number[];
 }
 
 export interface Skin {
+  id: number;
   name: string;
   localizationKey: string;
   available: boolean;
@@ -121,6 +117,7 @@ export interface Skin {
 }
 
 export interface Board {
+  id: number;
   name: string;
   localizationKey: string;
   isDefault: boolean;
@@ -132,22 +129,6 @@ export interface Season {
   name: string;
   start: string;
   end: string;
-}
-
-export interface CityTourStage {
-  [stage: string]: boolean[];
-}
-
-export interface CityTourChapter {
-  [chapter: string]: CityTourStage;
-}
-
-export interface CityTourMode {
-  [mode: string]: CityTourChapter;
-}
-
-export interface CityTourDistrict {
-  [district: string]: CityTourMode;
 }
 
 export interface SurfersDB {
@@ -166,8 +147,30 @@ export interface SeasonsDB {
   [id: string]: Season;
 }
 
+export interface CityTourChapterSchema {
+  id: number;
+  totalStages: number;
+  goalsPerStage: number;
+}
+
+export interface CityTourDistrictSchema {
+  id: number;
+  modes: string[];
+  chapters: CityTourChapterSchema[];
+}
+
 export interface CityTourDB {
-  [district: string]: CityTourMode;
+  districts: CityTourDistrictSchema[];
+}
+
+export interface TrialsCampaignSchema {
+  id: string;
+  modes: string[];
+  chapters: CityTourChapterSchema[];
+}
+
+export interface TrialsDB {
+  campaigns: TrialsCampaignSchema[];
 }
 `;
 

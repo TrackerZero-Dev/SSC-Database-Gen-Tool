@@ -1,0 +1,108 @@
+{
+  "districts": [
+    {
+      "id": 1,
+      "modes": ["Normal", "Hard"],
+      "chapters": [
+        {
+          "id": 1,
+          "totalStages": 3,
+          "goalsPerStage": 3
+        },
+        {
+          "id": 2,
+          "totalStages": 4,
+          "goalsPerStage": 3
+        },
+        {
+          "id": 3,
+          "totalStages": 4,
+          "goalsPerStage": 3
+        },
+        {
+          "id": 4,
+          "totalStages": 5,
+          "goalsPerStage": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "modes": ["Normal", "Hard"],
+      "chapters": [
+        {
+          "id": 1,
+          "totalStages": 3,
+          "goalsPerStage": 3
+        },
+        {
+          "id": 2,
+          "totalStages": 5,
+          "goalsPerStage": 3
+        },
+        {
+          "id": 3,
+          "totalStages": 5,
+          "goalsPerStage": 3
+        },
+        {
+          "id": 4,
+          "totalStages": 5,
+          "goalsPerStage": 3
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "modes": ["Normal", "Hard"],
+      "chapters": [
+        {
+          "id": 1,
+          "totalStages": 3,
+          "goalsPerStage": 3
+        },
+        {
+          "id": 2,
+          "totalStages": 5,
+          "goalsPerStage": 3
+        },
+        {
+          "id": 3,
+          "totalStages": 5,
+          "goalsPerStage": 3
+        },
+        {
+          "id": 4,
+          "totalStages": 5,
+          "goalsPerStage": 3
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "modes": ["Normal", "Hard"],
+      "chapters": [
+        {
+          "id": 1,
+          "totalStages": 3,
+          "goalsPerStage": 3
+        },
+        {
+          "id": 2,
+          "totalStages": 5,
+          "goalsPerStage": 3
+        },
+        {
+          "id": 3,
+          "totalStages": 5,
+          "goalsPerStage": 3
+        },
+        {
+          "id": 4,
+          "totalStages": 5,
+          "goalsPerStage": 3
+        }
+      ]
+    }
+  ]
+}

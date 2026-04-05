@@ -38,7 +38,6 @@ const GENERATE = {
   skins: 1,
   boards: 1,
   seasons: 1,
-  cityTour: 1,
   metadata: 1
 };
 ```
@@ -54,8 +53,15 @@ The live database (hosted via Cloudflare) is accessible at the following endpoin
 | [`/skins.json`](https://subway-city-database.trackerzero.workers.dev/skins.json) | Detailed skin data and localization keys. |
 | [`/boards.json`](https://subway-city-database.trackerzero.workers.dev/boards.json) | Hoverboard properties and availability. |
 | [`/seasons.json`](https://subway-city-database.trackerzero.workers.dev/seasons.json) | Start/End dates for game seasons. |
-| [`/city_tour.json`](https://subway-city-database.trackerzero.workers.dev/city_tour.json) | District, Chapter, and Stage progression data. |
 | [`/metadata.json`](https://subway-city-database.trackerzero.workers.dev/metadata.json) | Versioning and "Last Updated" timestamps. |
+
+### 📂 Static Databases
+Some databases are not generated from raw game data but are maintained manually using a schema/blueprint structure. These are located in the `Static_DB/` folder.
+
+| File | Description |
+| :--- | :--- |
+| `city_tour.json` | District, Chapter, and Stage progression schema. |
+| `trials.json` | Campaign, Chapter, and Stage progression schema for Trials. |
 
 ---
 
@@ -84,6 +90,7 @@ console.log(data["JACK"].name); // "Jack"
 *   `generate_robust_db.cjs`: Main entry point for the parsing logic.
 *   `gamedata_2.1.0/`: Source directory for raw game JSON files.
 *   `output/`: The generated modular JSON database and type definitions.
+*   `Static_DB/`: Manually maintained schema files for features like City Tour and Trials.
 *   `parsers/`: Individual parsing logic for surfers, boards, seasons, etc.
 *   `utils/`: Helper scripts (e.g., `names.cjs`) and mapping files (e.g., `custom_names.json`).
 
