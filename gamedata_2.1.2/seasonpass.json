@@ -1,0 +1,3477 @@
+{
+  "seasons": [
+    {
+      "id": "781915fe-041b-4e26-be8c-6eb5c7be547e",
+      "seasonKey": "season_lucy",
+      "startDate": "25/02/2026 09:00",
+      "endDate": "25/03/2026 08:59",
+      "tiers": [
+        {
+          "requiredPoints": 50,
+          "freeReward": {
+            "id": "91ec83a0-648c-40b8-be0c-c537dbc05a5e",
+            "rewards": [{ "rewardType": -633437229, "value": 2000 }]
+          },
+          "premiumReward": {
+            "id": "47c1f4fb-87d4-4ed8-95f8-d66da2b6da87",
+            "rewards": [{ "rewardType": 1797713741, "value": 0 }]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "00080e1d-7661-4e55-9023-5e84fbd1222a",
+            "rewards": [{ "rewardType": 952771234, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "3fe2be02-22ad-433a-a8b3-de763ba9dc30",
+            "rewards": [{ "rewardType": 926744219, "value": 1 }]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "4d68f184-7673-4b62-ab41-06a3bdf4231a",
+            "rewards": [{ "rewardType": 1669706535, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "691e3b0a-bf93-4d74-b6f0-3b8c296b5a8f",
+            "rewards": [
+              { "rewardType": 1669706535, "value": 3 },
+              { "rewardType": -633437229, "value": 4000 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "3a6369bf-8ff0-4fb7-9376-a58ac64e7049",
+            "rewards": [{ "rewardType": -1257912488, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "1f031160-f174-4960-ab18-ea04372ee322",
+            "rewards": [
+              { "rewardType": -1164536816, "value": 25 },
+              { "rewardType": 1669706535, "value": 3 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "b39cd9ac-c8a8-4f77-a49f-fc90f5220f73",
+            "rewards": [{ "rewardType": 952771234, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "5806b2f0-bd79-47d7-9026-9ec4d21e5d5a",
+            "rewards": [
+              { "rewardType": -1878560402, "value": 5 },
+              { "rewardType": -1085419483, "value": 50 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "f914df6e-786d-4596-8234-06e4aa80abf7",
+            "rewards": [{ "rewardType": 722065917, "value": 2 }]
+          },
+          "premiumReward": {
+            "id": "ba82ffa2-65b9-4d87-94a5-36d81216e59c",
+            "rewards": [
+              { "rewardType": 722065917, "value": 5 },
+              { "rewardType": -1164536816, "value": 75 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "8003c175-f8ef-4349-afd7-70e35107432e",
+            "rewards": [{ "rewardType": -1878560402, "value": 2 }]
+          },
+          "premiumReward": {
+            "id": "a54c3f82-4e6b-48d1-b0bb-7cf32034f399",
+            "rewards": [
+              { "rewardType": -1878560402, "value": 3 },
+              { "rewardType": 1669706535, "value": 3 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "a1856fb8-6f07-4a45-b37f-b14c442ebe11",
+            "rewards": [{ "rewardType": -1085419483, "value": 5 }]
+          },
+          "premiumReward": {
+            "id": "955edfe2-67c6-4f5c-b67a-e8d07c17b797",
+            "rewards": [
+              { "rewardType": -1085419483, "value": 50 },
+              { "rewardType": -633437229, "value": 5000 }
+            ]
+          },
+          "requiresAd": true,
+          "adPlacement": "001"
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "066c441b-c6dd-46cc-89e7-a5860aead9b0",
+            "rewards": [{ "rewardType": -1257912488, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "a41f8094-c16f-457b-88ab-3ef0c6e46cc3",
+            "rewards": [
+              { "rewardType": -1164536816, "value": 50 },
+              { "rewardType": -1085419483, "value": 50 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "16d557ff-8500-4710-9274-5f7817590b23",
+            "rewards": [{ "rewardType": 952771234, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "0240a1e9-d0b2-494b-87a7-a7fa52232607",
+            "rewards": [{ "rewardType": 926744219, "value": 1 }]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "39164569-af08-4900-aa50-c020a7ad8b80",
+            "rewards": [{ "rewardType": -633437229, "value": 2500 }]
+          },
+          "premiumReward": {
+            "id": "bbc1ef56-0506-41ad-ba82-b67c5420bbe5",
+            "rewards": [
+              { "rewardType": -633437229, "value": 6000 },
+              { "rewardType": -1164536816, "value": 50 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "a6688f39-7419-4ea8-944c-f5cf3a892502",
+            "rewards": [{ "rewardType": -1257912488, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "6100f6bb-27e5-4369-91aa-9c3343489c0d",
+            "rewards": [
+              { "rewardType": -1164536816, "value": 50 },
+              { "rewardType": 1669706535, "value": 3 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "8dcf18fc-8bbf-4da5-9e2d-2c38d1114c01",
+            "rewards": [{ "rewardType": -1085419483, "value": 5 }]
+          },
+          "premiumReward": {
+            "id": "317c6ea5-27fd-4300-adb9-13a9f851f729",
+            "rewards": [
+              { "rewardType": -1085419483, "value": 50 },
+              { "rewardType": -633437229, "value": 3000 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "502579a8-c9ff-44c8-8527-715e4d4f56d3",
+            "rewards": [{ "rewardType": 952771234, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "37f86dcd-aa72-4d13-a279-6d63030769d6",
+            "rewards": [
+              { "rewardType": -1509662453, "value": 5 },
+              { "rewardType": 722065917, "value": 3 }
+            ]
+          },
+          "requiresAd": true,
+          "adPlacement": "002"
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "8b9e054b-3a60-416d-835d-4d6401ab701d",
+            "rewards": [{ "rewardType": 1669706535, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "b4400ecf-5076-4e67-bf0d-cae85c0ad1b0",
+            "rewards": [
+              { "rewardType": 1669706535, "value": 3 },
+              { "rewardType": -633437229, "value": 3000 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "a30655b9-727b-45b9-a89b-7a657859fb96",
+            "rewards": [{ "rewardType": -1257912488, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "8f02bbfb-8f82-44f9-bdef-782652988ec1",
+            "rewards": [{ "rewardType": 926744219, "value": 1 }]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "b5dbab33-5429-4466-8197-2b31c6c62547",
+            "rewards": [{ "rewardType": 722065917, "value": 2 }]
+          },
+          "premiumReward": {
+            "id": "5e3a0af9-59cc-42e9-91cf-b748592a984c",
+            "rewards": [
+              { "rewardType": 722065917, "value": 3 },
+              { "rewardType": -1085419483, "value": 50 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "1998c02e-3201-4672-b03d-79c43157ea58",
+            "rewards": [{ "rewardType": -1878560402, "value": 2 }]
+          },
+          "premiumReward": {
+            "id": "40494844-9238-4eb9-8c76-d21ceb2d0f58",
+            "rewards": [
+              { "rewardType": -1878560402, "value": 3 },
+              { "rewardType": 722065917, "value": 3 }
+            ]
+          },
+          "requiresAd": true,
+          "adPlacement": "003"
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "f34c5a8b-a022-41fa-9470-04020a9f6fb5",
+            "rewards": [{ "rewardType": -633437229, "value": 2500 }]
+          },
+          "premiumReward": {
+            "id": "f1a0f0b4-a6d4-4719-8e0f-98b6b39c149b",
+            "rewards": [
+              { "rewardType": -633437229, "value": 3000 },
+              { "rewardType": 1669706535, "value": 3 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "f3ca5ddc-aa5f-4066-a483-19917dd07d18",
+            "rewards": [{ "rewardType": 722065917, "value": 2 }]
+          },
+          "premiumReward": {
+            "id": "c9242a7f-1dd5-42c8-8546-011df04ff55c",
+            "rewards": [
+              { "rewardType": 722065917, "value": 3 },
+              { "rewardType": -1509662453, "value": 3 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "0ffa2ee8-1e33-45c2-8a7c-cf646c3d1abf",
+            "rewards": [{ "rewardType": -1085419483, "value": 5 }]
+          },
+          "premiumReward": {
+            "id": "49e4e28e-f4de-40ba-b9b7-eeaea870737b",
+            "rewards": [
+              { "rewardType": -1085419483, "value": 50 },
+              { "rewardType": -1164536816, "value": 50 }
+            ]
+          },
+          "requiresAd": true,
+          "adPlacement": "004"
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "70b02138-97f2-4dd6-918f-d7c4d5d9df59",
+            "rewards": [{ "rewardType": -1257912488, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "7aa1ca64-6fa2-4af4-9030-17ac806a910c",
+            "rewards": [
+              { "rewardType": -1509662453, "value": 3 },
+              { "rewardType": 722065917, "value": 3 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "c3645cc0-698d-4fec-bd28-fb9116ae5d2a",
+            "rewards": [{ "rewardType": 1669706535, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "d94f19dc-25b1-4e1a-8779-93abcaa57a01",
+            "rewards": [
+              { "rewardType": 1669706535, "value": 3 },
+              { "rewardType": -1509662453, "value": 3 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "091155c9-5c50-4000-9775-f6c85691597a",
+            "rewards": [{ "rewardType": 952771234, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "c69970e6-86a4-4370-ac77-578e716e3def",
+            "rewards": [
+              { "rewardType": 722065917, "value": 5 },
+              { "rewardType": -1164536816, "value": 50 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "08d85c6b-c26e-46f5-978e-bdcc27d2acf6",
+            "rewards": [{ "rewardType": 926744219, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "9c0a9fa0-81cf-460a-a2a3-b7097359fb28",
+            "rewards": [{ "rewardType": -1267355489, "value": 0 }]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "da569e01-90af-464e-a7d9-2057a0d9844f",
+            "rewards": [{ "rewardType": -1878560402, "value": 2 }]
+          },
+          "premiumReward": {
+            "id": "a9fe2096-8766-4ed4-902e-9e9af719b721",
+            "rewards": [
+              { "rewardType": -1509662453, "value": 5 },
+              { "rewardType": -1085419483, "value": 50 }
+            ]
+          },
+          "requiresAd": true,
+          "adPlacement": "005"
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "5397f0a9-a046-4a73-8b1e-11c97f5b0a18",
+            "rewards": [{ "rewardType": 1669706535, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "75c572e3-4537-47c0-870e-d890c2c7d969",
+            "rewards": [
+              { "rewardType": 1669706535, "value": 3 },
+              { "rewardType": -633437229, "value": 5000 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "c82780e8-e200-4694-85b5-786edecec631",
+            "rewards": [{ "rewardType": -1257912488, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "0633362b-48a8-4b89-b769-5d7b9e5cb383",
+            "rewards": [
+              { "rewardType": -1164536816, "value": 50 },
+              { "rewardType": -1878560402, "value": 3 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "55b95810-c65b-4f4e-a35c-64bca5603af0",
+            "rewards": [{ "rewardType": -1085419483, "value": 5 }]
+          },
+          "premiumReward": {
+            "id": "75e2a688-789f-4f3d-8120-832bdfe55bba",
+            "rewards": [
+              { "rewardType": -1085419483, "value": 50 },
+              { "rewardType": -633437229, "value": 3000 }
+            ]
+          },
+          "requiresAd": true,
+          "adPlacement": "006"
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "4faee80b-d925-45ab-80fe-da75e6229fe0",
+            "rewards": [{ "rewardType": 952771234, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "f2726c36-867f-4214-94c4-76a94fcdb2e5",
+            "rewards": [
+              { "rewardType": -633437229, "value": 5000 },
+              { "rewardType": 1669706535, "value": 3 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "3ab56cf3-a94e-42ea-b6f8-dc199b47f579",
+            "rewards": [{ "rewardType": -633437229, "value": 3000 }]
+          },
+          "premiumReward": {
+            "id": "08d8dfa6-565c-4500-b5ca-ade4a02846b1",
+            "rewards": [
+              { "rewardType": -1085419483, "value": 50 },
+              { "rewardType": -1164536816, "value": 50 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "07aa5e17-41de-4e99-87af-814d285d42bc",
+            "rewards": [{ "rewardType": -1878560402, "value": 3 }]
+          },
+          "premiumReward": {
+            "id": "04c7aebe-1bc1-4703-b15f-175656e7499f",
+            "rewards": [
+              { "rewardType": -1878560402, "value": 3 },
+              { "rewardType": -633437229, "value": 4000 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "e740d0f3-a1bd-4475-af78-b8629e2055b7",
+            "rewards": [{ "rewardType": -1085419483, "value": 5 }]
+          },
+          "premiumReward": {
+            "id": "b2e74a12-b250-4005-9460-d9d02e489496",
+            "rewards": [
+              { "rewardType": -1085419483, "value": 50 },
+              { "rewardType": -1164536816, "value": 50 }
+            ]
+          },
+          "requiresAd": true,
+          "adPlacement": "007"
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "aa7386d3-36c0-4492-aaf6-1508a9f7b843",
+            "rewards": [{ "rewardType": -1257912488, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "c41389b6-bfdc-472f-aba7-55529987cc91",
+            "rewards": [
+              { "rewardType": 722065917, "value": 3 },
+              { "rewardType": -1085419483, "value": 50 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "72b119c4-5ae6-486c-9001-f82423e1aa69",
+            "rewards": [{ "rewardType": -1878560402, "value": 2 }]
+          },
+          "premiumReward": {
+            "id": "c76dec18-d04f-47b9-9558-920220553eec",
+            "rewards": [
+              { "rewardType": -1509662453, "value": 3 },
+              { "rewardType": -1878560402, "value": 3 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "e5a28e90-a632-433e-a4a1-ddcba5835549",
+            "rewards": [{ "rewardType": -633437229, "value": 3000 }]
+          },
+          "premiumReward": {
+            "id": "85eb0b9b-938d-45d9-a246-699968989f62",
+            "rewards": [
+              { "rewardType": -633437229, "value": 5000 },
+              { "rewardType": 722065917, "value": 3 }
+            ]
+          },
+          "requiresAd": true,
+          "adPlacement": "008"
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "3c846838-6b67-4b9e-8a3e-e19180b82845",
+            "rewards": [{ "rewardType": -1085419483, "value": 5 }]
+          },
+          "premiumReward": {
+            "id": "b5b10a6b-4ed6-4fa8-8a05-aed8113df187",
+            "rewards": [
+              { "rewardType": -1085419483, "value": 50 },
+              { "rewardType": -1164536816, "value": 50 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "dcadc560-e9e1-4eef-ac3a-e35787d2fb34",
+            "rewards": [{ "rewardType": 1669706535, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "c5d66d1d-4b2b-4287-9fae-729a45bf2b51",
+            "rewards": [
+              { "rewardType": 1669706535, "value": 5 },
+              { "rewardType": -633437229, "value": 5000 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "daf24080-7a23-49cc-bd3d-d6ac31daade5",
+            "rewards": [{ "rewardType": -1257912488, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "8b4bb30f-666c-4541-9ce6-9765faabec01",
+            "rewards": [
+              { "rewardType": -1164536816, "value": 50 },
+              { "rewardType": -1085419483, "value": 50 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "7ca0beca-d2ca-46b0-ac89-dfb760165469",
+            "rewards": [{ "rewardType": -633437229, "value": 3000 }]
+          },
+          "premiumReward": {
+            "id": "39831d4a-58e2-49f0-8573-3634a3a0d157",
+            "rewards": [
+              { "rewardType": 722065917, "value": 3 },
+              { "rewardType": -1509662453, "value": 5 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "e922e542-9623-420b-a4f0-b69b9759e391",
+            "rewards": [{ "rewardType": 952771234, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "fea19387-3f5d-4bde-bf6c-4cdb3aabf845",
+            "rewards": [{ "rewardType": 926744219, "value": 1 }]
+          },
+          "requiresAd": true,
+          "adPlacement": "009"
+        },
+        {
+          "requiredPoints": 250,
+          "freeReward": {
+            "id": "043b272d-701b-4a33-8ad8-a335c0b37b7c",
+            "rewards": [{ "rewardType": -1878560402, "value": 3 }]
+          },
+          "premiumReward": {
+            "id": "49d718ed-78d4-4923-93e8-8ff325b1f6d5",
+            "rewards": [
+              { "rewardType": -1878560402, "value": 5 },
+              { "rewardType": -1164536816, "value": 50 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 250,
+          "freeReward": {
+            "id": "48c32704-2a12-4e27-b3cc-473f79679f8c",
+            "rewards": [{ "rewardType": -633437229, "value": 5000 }]
+          },
+          "premiumReward": {
+            "id": "acd0d715-6477-4b95-8fa7-f7aa0c1989fa",
+            "rewards": [
+              { "rewardType": -1085419483, "value": 50 },
+              { "rewardType": -633437229, "value": 5000 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 250,
+          "freeReward": {
+            "id": "355c7d0a-57eb-4b94-9b9c-1f5377d8d577",
+            "rewards": [{ "rewardType": 722065917, "value": 2 }]
+          },
+          "premiumReward": {
+            "id": "077f2b7c-f26c-40c6-b92e-30f243543808",
+            "rewards": [
+              { "rewardType": 722065917, "value": 3 },
+              { "rewardType": -1164536816, "value": 50 }
+            ]
+          },
+          "requiresAd": true,
+          "adPlacement": "010"
+        },
+        {
+          "requiredPoints": 250,
+          "freeReward": {
+            "id": "aaae1f5c-6d82-4379-b53a-60fe102e3e65",
+            "rewards": [{ "rewardType": -1085419483, "value": 5 }]
+          },
+          "premiumReward": {
+            "id": "f452d53a-96ae-47c0-b143-42649abff15a",
+            "rewards": [
+              { "rewardType": -1085419483, "value": 50 },
+              { "rewardType": -1878560402, "value": 5 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 250,
+          "freeReward": {
+            "id": "0a488f3a-6caf-4714-bbcc-0133152eea72",
+            "rewards": [{ "rewardType": -633437229, "value": 5000 }]
+          },
+          "premiumReward": {
+            "id": "91690c6b-9b6d-49e2-8552-444753bd08d3",
+            "rewards": [
+              { "rewardType": -633437229, "value": 8000 },
+              { "rewardType": 722065917, "value": 3 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 250,
+          "freeReward": {
+            "id": "cff4dc40-5403-4137-9ed9-3a3825ea834e",
+            "rewards": [{ "rewardType": -1878560402, "value": 3 }]
+          },
+          "premiumReward": {
+            "id": "30cfa5e5-eafa-41b5-b613-2b20ec6ea0e6",
+            "rewards": [
+              { "rewardType": -1509662453, "value": 3 },
+              { "rewardType": -633437229, "value": 5000 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 250,
+          "freeReward": {
+            "id": "2dfa0e47-ba07-47d9-b803-2c9fbc730300",
+            "rewards": [{ "rewardType": -1257912488, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "c89fa124-1f16-4e9b-8b6e-6e5e1774b5b3",
+            "rewards": [{ "rewardType": 926744219, "value": 1 }]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 250,
+          "freeReward": {
+            "id": "8b19ff0a-ed8f-48f3-a5af-816a9a5d314f",
+            "rewards": [{ "rewardType": -1085419483, "value": 10 }]
+          },
+          "premiumReward": {
+            "id": "fae468f4-532c-4fec-bb92-7a7922e23413",
+            "rewards": [
+              { "rewardType": -1085419483, "value": 100 },
+              { "rewardType": 722065917, "value": 3 }
+            ]
+          },
+          "requiresAd": true,
+          "adPlacement": "011"
+        },
+        {
+          "requiredPoints": 250,
+          "freeReward": {
+            "id": "7866ed64-22cf-4332-8f01-4b1fb1852fe7",
+            "rewards": [{ "rewardType": 1601978873, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "0b9a78e1-a4da-43f8-a689-8451c487a137",
+            "rewards": [
+              { "rewardType": -1164536816, "value": 300 },
+              { "rewardType": -633437229, "value": 10000 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        }
+      ],
+      "missionSets": [
+        {
+          "unlockDelay": "0",
+          "missions": [
+            { "missionId": -1809742903, "unlockDelay": "0" },
+            { "missionId": -1481534301, "unlockDelay": "0" },
+            { "missionId": -1549182350, "unlockDelay": "0" },
+            { "missionId": 980028871, "unlockDelay": "0" },
+            { "missionId": -1056214505, "unlockDelay": "0" },
+            { "missionId": -680672991, "unlockDelay": "0" },
+            { "missionId": -1986200142, "unlockDelay": "0" },
+            { "missionId": -1118956068, "unlockDelay": "0" },
+            { "missionId": -145526530, "unlockDelay": "0" },
+            { "missionId": 911314832, "unlockDelay": "0" }
+          ]
+        },
+        {
+          "unlockDelay": "1",
+          "missions": [
+            { "missionId": 644625591, "unlockDelay": "0" },
+            { "missionId": 751043873, "unlockDelay": "0" },
+            { "missionId": 1158652415, "unlockDelay": "0" },
+            { "missionId": -601827314, "unlockDelay": "0" },
+            { "missionId": 1429266614, "unlockDelay": "1" },
+            { "missionId": 904071340, "unlockDelay": "2" },
+            { "missionId": 1050545747, "unlockDelay": "3" },
+            { "missionId": -1447617160, "unlockDelay": "4" },
+            { "missionId": -1589703306, "unlockDelay": "5" },
+            { "missionId": 502120502, "unlockDelay": "6" }
+          ]
+        },
+        {
+          "unlockDelay": "8",
+          "missions": [
+            { "missionId": 1133609420, "unlockDelay": "0" },
+            { "missionId": 459363463, "unlockDelay": "0" },
+            { "missionId": -793791560, "unlockDelay": "0" },
+            { "missionId": -1531544324, "unlockDelay": "0" },
+            { "missionId": 279485038, "unlockDelay": "1" },
+            { "missionId": -392302612, "unlockDelay": "2" },
+            { "missionId": -800661955, "unlockDelay": "3" },
+            { "missionId": 1995492739, "unlockDelay": "4" },
+            { "missionId": -1445455474, "unlockDelay": "5" },
+            { "missionId": 1870248130, "unlockDelay": "6" }
+          ]
+        },
+        {
+          "unlockDelay": "15",
+          "missions": [
+            { "missionId": -293300908, "unlockDelay": "0" },
+            { "missionId": 1251092592, "unlockDelay": "0" },
+            { "missionId": 1934227710, "unlockDelay": "0" },
+            { "missionId": 218753104, "unlockDelay": "0" },
+            { "missionId": -1240168727, "unlockDelay": "1" },
+            { "missionId": 181564976, "unlockDelay": "2" },
+            { "missionId": -62739511, "unlockDelay": "3" },
+            { "missionId": -1388801701, "unlockDelay": "4" },
+            { "missionId": 1207475329, "unlockDelay": "5" },
+            { "missionId": 1221036103, "unlockDelay": "6" }
+          ]
+        },
+        {
+          "unlockDelay": "22",
+          "missions": [
+            { "missionId": -54906172, "unlockDelay": "0" },
+            { "missionId": 1794890014, "unlockDelay": "0" },
+            { "missionId": -288496120, "unlockDelay": "0" },
+            { "missionId": 1894645279, "unlockDelay": "0" },
+            { "missionId": -518478714, "unlockDelay": "0" },
+            { "missionId": 1910337511, "unlockDelay": "1" },
+            { "missionId": 106037604, "unlockDelay": "2" },
+            { "missionId": 1088667674, "unlockDelay": "3" },
+            { "missionId": 2098963905, "unlockDelay": "4" },
+            { "missionId": 1461423984, "unlockDelay": "5" }
+          ]
+        }
+      ],
+      "overflowTier": {
+        "requiredPoints": 500,
+        "reward": { "rewardType": -633437229, "value": 2000 }
+      }
+    },
+    {
+      "id": "c7f55cc9-e455-4301-9340-559ecc94c124",
+      "seasonKey": "season_v3ctor",
+      "startDate": "25/03/2026 09:00",
+      "endDate": "22/04/2026 08:59",
+      "tiers": [
+        {
+          "requiredPoints": 50,
+          "freeReward": {
+            "id": "91ec83a0-648c-40b8-be0c-c537dbc05a5e",
+            "rewards": [{ "rewardType": -633437229, "value": 2000 }]
+          },
+          "premiumReward": {
+            "id": "47c1f4fb-87d4-4ed8-95f8-d66da2b6da87",
+            "rewards": [{ "rewardType": -42382370, "value": 0 }]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "00080e1d-7661-4e55-9023-5e84fbd1222a",
+            "rewards": [{ "rewardType": 952771234, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "3fe2be02-22ad-433a-a8b3-de763ba9dc30",
+            "rewards": [{ "rewardType": 926744219, "value": 1 }]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "4d68f184-7673-4b62-ab41-06a3bdf4231a",
+            "rewards": [{ "rewardType": 1669706535, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "691e3b0a-bf93-4d74-b6f0-3b8c296b5a8f",
+            "rewards": [
+              { "rewardType": 1669706535, "value": 3 },
+              { "rewardType": -633437229, "value": 4000 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "3a6369bf-8ff0-4fb7-9376-a58ac64e7049",
+            "rewards": [{ "rewardType": -1257912488, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "1f031160-f174-4960-ab18-ea04372ee322",
+            "rewards": [
+              { "rewardType": 751382659, "value": 25 },
+              { "rewardType": 1669706535, "value": 3 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "b39cd9ac-c8a8-4f77-a49f-fc90f5220f73",
+            "rewards": [{ "rewardType": 952771234, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "5806b2f0-bd79-47d7-9026-9ec4d21e5d5a",
+            "rewards": [
+              { "rewardType": -1878560402, "value": 5 },
+              { "rewardType": -1085419483, "value": 50 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "f914df6e-786d-4596-8234-06e4aa80abf7",
+            "rewards": [{ "rewardType": 722065917, "value": 2 }]
+          },
+          "premiumReward": {
+            "id": "ba82ffa2-65b9-4d87-94a5-36d81216e59c",
+            "rewards": [
+              { "rewardType": 722065917, "value": 5 },
+              { "rewardType": 751382659, "value": 75 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "8003c175-f8ef-4349-afd7-70e35107432e",
+            "rewards": [{ "rewardType": -1878560402, "value": 2 }]
+          },
+          "premiumReward": {
+            "id": "a54c3f82-4e6b-48d1-b0bb-7cf32034f399",
+            "rewards": [
+              { "rewardType": -1878560402, "value": 3 },
+              { "rewardType": 1669706535, "value": 3 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "a1856fb8-6f07-4a45-b37f-b14c442ebe11",
+            "rewards": [{ "rewardType": -1085419483, "value": 5 }]
+          },
+          "premiumReward": {
+            "id": "955edfe2-67c6-4f5c-b67a-e8d07c17b797",
+            "rewards": [
+              { "rewardType": -1085419483, "value": 50 },
+              { "rewardType": -633437229, "value": 5000 }
+            ]
+          },
+          "requiresAd": true,
+          "adPlacement": "001"
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "066c441b-c6dd-46cc-89e7-a5860aead9b0",
+            "rewards": [{ "rewardType": -1257912488, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "a41f8094-c16f-457b-88ab-3ef0c6e46cc3",
+            "rewards": [
+              { "rewardType": 751382659, "value": 50 },
+              { "rewardType": -1085419483, "value": 50 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "16d557ff-8500-4710-9274-5f7817590b23",
+            "rewards": [{ "rewardType": 952771234, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "0240a1e9-d0b2-494b-87a7-a7fa52232607",
+            "rewards": [{ "rewardType": 926744219, "value": 1 }]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "39164569-af08-4900-aa50-c020a7ad8b80",
+            "rewards": [{ "rewardType": -633437229, "value": 2500 }]
+          },
+          "premiumReward": {
+            "id": "bbc1ef56-0506-41ad-ba82-b67c5420bbe5",
+            "rewards": [
+              { "rewardType": -633437229, "value": 6000 },
+              { "rewardType": 751382659, "value": 50 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "a6688f39-7419-4ea8-944c-f5cf3a892502",
+            "rewards": [{ "rewardType": -1257912488, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "6100f6bb-27e5-4369-91aa-9c3343489c0d",
+            "rewards": [
+              { "rewardType": 751382659, "value": 50 },
+              { "rewardType": 1669706535, "value": 3 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "8dcf18fc-8bbf-4da5-9e2d-2c38d1114c01",
+            "rewards": [{ "rewardType": -1085419483, "value": 5 }]
+          },
+          "premiumReward": {
+            "id": "317c6ea5-27fd-4300-adb9-13a9f851f729",
+            "rewards": [
+              { "rewardType": -1085419483, "value": 50 },
+              { "rewardType": -633437229, "value": 3000 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "502579a8-c9ff-44c8-8527-715e4d4f56d3",
+            "rewards": [{ "rewardType": 952771234, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "37f86dcd-aa72-4d13-a279-6d63030769d6",
+            "rewards": [
+              { "rewardType": -1509662453, "value": 5 },
+              { "rewardType": 722065917, "value": 3 }
+            ]
+          },
+          "requiresAd": true,
+          "adPlacement": "002"
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "8b9e054b-3a60-416d-835d-4d6401ab701d",
+            "rewards": [{ "rewardType": 1669706535, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "b4400ecf-5076-4e67-bf0d-cae85c0ad1b0",
+            "rewards": [
+              { "rewardType": 1669706535, "value": 3 },
+              { "rewardType": -633437229, "value": 3000 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "a30655b9-727b-45b9-a89b-7a657859fb96",
+            "rewards": [{ "rewardType": -1257912488, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "8f02bbfb-8f82-44f9-bdef-782652988ec1",
+            "rewards": [{ "rewardType": 926744219, "value": 1 }]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "b5dbab33-5429-4466-8197-2b31c6c62547",
+            "rewards": [{ "rewardType": 722065917, "value": 2 }]
+          },
+          "premiumReward": {
+            "id": "5e3a0af9-59cc-42e9-91cf-b748592a984c",
+            "rewards": [
+              { "rewardType": 722065917, "value": 3 },
+              { "rewardType": -1085419483, "value": 50 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "1998c02e-3201-4672-b03d-79c43157ea58",
+            "rewards": [{ "rewardType": -1878560402, "value": 2 }]
+          },
+          "premiumReward": {
+            "id": "40494844-9238-4eb9-8c76-d21ceb2d0f58",
+            "rewards": [
+              { "rewardType": -1878560402, "value": 3 },
+              { "rewardType": 722065917, "value": 3 }
+            ]
+          },
+          "requiresAd": true,
+          "adPlacement": "003"
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "f34c5a8b-a022-41fa-9470-04020a9f6fb5",
+            "rewards": [{ "rewardType": -633437229, "value": 2500 }]
+          },
+          "premiumReward": {
+            "id": "f1a0f0b4-a6d4-4719-8e0f-98b6b39c149b",
+            "rewards": [
+              { "rewardType": -633437229, "value": 3000 },
+              { "rewardType": 1669706535, "value": 3 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "f3ca5ddc-aa5f-4066-a483-19917dd07d18",
+            "rewards": [{ "rewardType": 722065917, "value": 2 }]
+          },
+          "premiumReward": {
+            "id": "c9242a7f-1dd5-42c8-8546-011df04ff55c",
+            "rewards": [
+              { "rewardType": 722065917, "value": 3 },
+              { "rewardType": -1509662453, "value": 3 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "0ffa2ee8-1e33-45c2-8a7c-cf646c3d1abf",
+            "rewards": [{ "rewardType": -1085419483, "value": 5 }]
+          },
+          "premiumReward": {
+            "id": "49e4e28e-f4de-40ba-b9b7-eeaea870737b",
+            "rewards": [
+              { "rewardType": -1085419483, "value": 50 },
+              { "rewardType": 751382659, "value": 50 }
+            ]
+          },
+          "requiresAd": true,
+          "adPlacement": "004"
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "70b02138-97f2-4dd6-918f-d7c4d5d9df59",
+            "rewards": [{ "rewardType": -1257912488, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "7aa1ca64-6fa2-4af4-9030-17ac806a910c",
+            "rewards": [
+              { "rewardType": -1509662453, "value": 3 },
+              { "rewardType": 722065917, "value": 3 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "c3645cc0-698d-4fec-bd28-fb9116ae5d2a",
+            "rewards": [{ "rewardType": 1669706535, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "d94f19dc-25b1-4e1a-8779-93abcaa57a01",
+            "rewards": [
+              { "rewardType": 1669706535, "value": 3 },
+              { "rewardType": -1509662453, "value": 3 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "091155c9-5c50-4000-9775-f6c85691597a",
+            "rewards": [{ "rewardType": 952771234, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "c69970e6-86a4-4370-ac77-578e716e3def",
+            "rewards": [
+              { "rewardType": 722065917, "value": 5 },
+              { "rewardType": 751382659, "value": 50 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "08d85c6b-c26e-46f5-978e-bdcc27d2acf6",
+            "rewards": [{ "rewardType": 926744219, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "9c0a9fa0-81cf-460a-a2a3-b7097359fb28",
+            "rewards": [{ "rewardType": 1090226108, "value": 1 }]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "da569e01-90af-464e-a7d9-2057a0d9844f",
+            "rewards": [{ "rewardType": -1878560402, "value": 2 }]
+          },
+          "premiumReward": {
+            "id": "a9fe2096-8766-4ed4-902e-9e9af719b721",
+            "rewards": [
+              { "rewardType": -1509662453, "value": 5 },
+              { "rewardType": -1085419483, "value": 50 }
+            ]
+          },
+          "requiresAd": true,
+          "adPlacement": "005"
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "5397f0a9-a046-4a73-8b1e-11c97f5b0a18",
+            "rewards": [{ "rewardType": 1669706535, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "75c572e3-4537-47c0-870e-d890c2c7d969",
+            "rewards": [
+              { "rewardType": 1669706535, "value": 3 },
+              { "rewardType": -633437229, "value": 5000 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "c82780e8-e200-4694-85b5-786edecec631",
+            "rewards": [{ "rewardType": -1257912488, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "0633362b-48a8-4b89-b769-5d7b9e5cb383",
+            "rewards": [
+              { "rewardType": 751382659, "value": 50 },
+              { "rewardType": -1878560402, "value": 3 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "55b95810-c65b-4f4e-a35c-64bca5603af0",
+            "rewards": [{ "rewardType": -1085419483, "value": 5 }]
+          },
+          "premiumReward": {
+            "id": "75e2a688-789f-4f3d-8120-832bdfe55bba",
+            "rewards": [
+              { "rewardType": -1085419483, "value": 50 },
+              { "rewardType": -633437229, "value": 3000 }
+            ]
+          },
+          "requiresAd": true,
+          "adPlacement": "006"
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "4faee80b-d925-45ab-80fe-da75e6229fe0",
+            "rewards": [{ "rewardType": 952771234, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "f2726c36-867f-4214-94c4-76a94fcdb2e5",
+            "rewards": [
+              { "rewardType": -633437229, "value": 5000 },
+              { "rewardType": 1669706535, "value": 3 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "3ab56cf3-a94e-42ea-b6f8-dc199b47f579",
+            "rewards": [{ "rewardType": -633437229, "value": 3000 }]
+          },
+          "premiumReward": {
+            "id": "08d8dfa6-565c-4500-b5ca-ade4a02846b1",
+            "rewards": [
+              { "rewardType": -1085419483, "value": 50 },
+              { "rewardType": 751382659, "value": 50 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "07aa5e17-41de-4e99-87af-814d285d42bc",
+            "rewards": [{ "rewardType": -1878560402, "value": 3 }]
+          },
+          "premiumReward": {
+            "id": "04c7aebe-1bc1-4703-b15f-175656e7499f",
+            "rewards": [
+              { "rewardType": -1878560402, "value": 3 },
+              { "rewardType": -633437229, "value": 4000 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "e740d0f3-a1bd-4475-af78-b8629e2055b7",
+            "rewards": [{ "rewardType": -1085419483, "value": 5 }]
+          },
+          "premiumReward": {
+            "id": "b2e74a12-b250-4005-9460-d9d02e489496",
+            "rewards": [
+              { "rewardType": -1085419483, "value": 50 },
+              { "rewardType": 751382659, "value": 50 }
+            ]
+          },
+          "requiresAd": true,
+          "adPlacement": "007"
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "aa7386d3-36c0-4492-aaf6-1508a9f7b843",
+            "rewards": [{ "rewardType": -1257912488, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "c41389b6-bfdc-472f-aba7-55529987cc91",
+            "rewards": [
+              { "rewardType": 722065917, "value": 3 },
+              { "rewardType": -1085419483, "value": 50 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "72b119c4-5ae6-486c-9001-f82423e1aa69",
+            "rewards": [{ "rewardType": -1878560402, "value": 2 }]
+          },
+          "premiumReward": {
+            "id": "c76dec18-d04f-47b9-9558-920220553eec",
+            "rewards": [
+              { "rewardType": -1509662453, "value": 3 },
+              { "rewardType": -1878560402, "value": 3 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "e5a28e90-a632-433e-a4a1-ddcba5835549",
+            "rewards": [{ "rewardType": -633437229, "value": 3000 }]
+          },
+          "premiumReward": {
+            "id": "85eb0b9b-938d-45d9-a246-699968989f62",
+            "rewards": [
+              { "rewardType": -633437229, "value": 5000 },
+              { "rewardType": 722065917, "value": 3 }
+            ]
+          },
+          "requiresAd": true,
+          "adPlacement": "008"
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "3c846838-6b67-4b9e-8a3e-e19180b82845",
+            "rewards": [{ "rewardType": -1085419483, "value": 5 }]
+          },
+          "premiumReward": {
+            "id": "b5b10a6b-4ed6-4fa8-8a05-aed8113df187",
+            "rewards": [
+              { "rewardType": -1085419483, "value": 50 },
+              { "rewardType": 751382659, "value": 50 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "dcadc560-e9e1-4eef-ac3a-e35787d2fb34",
+            "rewards": [{ "rewardType": 1669706535, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "c5d66d1d-4b2b-4287-9fae-729a45bf2b51",
+            "rewards": [
+              { "rewardType": 1669706535, "value": 5 },
+              { "rewardType": -633437229, "value": 5000 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "daf24080-7a23-49cc-bd3d-d6ac31daade5",
+            "rewards": [{ "rewardType": -1257912488, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "8b4bb30f-666c-4541-9ce6-9765faabec01",
+            "rewards": [
+              { "rewardType": 751382659, "value": 50 },
+              { "rewardType": -1085419483, "value": 50 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "7ca0beca-d2ca-46b0-ac89-dfb760165469",
+            "rewards": [{ "rewardType": -633437229, "value": 3000 }]
+          },
+          "premiumReward": {
+            "id": "39831d4a-58e2-49f0-8573-3634a3a0d157",
+            "rewards": [
+              { "rewardType": 722065917, "value": 3 },
+              { "rewardType": -1509662453, "value": 5 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "e922e542-9623-420b-a4f0-b69b9759e391",
+            "rewards": [{ "rewardType": 952771234, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "fea19387-3f5d-4bde-bf6c-4cdb3aabf845",
+            "rewards": [{ "rewardType": 926744219, "value": 1 }]
+          },
+          "requiresAd": true,
+          "adPlacement": "009"
+        },
+        {
+          "requiredPoints": 250,
+          "freeReward": {
+            "id": "043b272d-701b-4a33-8ad8-a335c0b37b7c",
+            "rewards": [{ "rewardType": -1878560402, "value": 3 }]
+          },
+          "premiumReward": {
+            "id": "49d718ed-78d4-4923-93e8-8ff325b1f6d5",
+            "rewards": [
+              { "rewardType": -1878560402, "value": 5 },
+              { "rewardType": 751382659, "value": 50 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 250,
+          "freeReward": {
+            "id": "48c32704-2a12-4e27-b3cc-473f79679f8c",
+            "rewards": [{ "rewardType": -633437229, "value": 5000 }]
+          },
+          "premiumReward": {
+            "id": "acd0d715-6477-4b95-8fa7-f7aa0c1989fa",
+            "rewards": [
+              { "rewardType": -1085419483, "value": 50 },
+              { "rewardType": -633437229, "value": 5000 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 250,
+          "freeReward": {
+            "id": "355c7d0a-57eb-4b94-9b9c-1f5377d8d577",
+            "rewards": [{ "rewardType": 722065917, "value": 2 }]
+          },
+          "premiumReward": {
+            "id": "077f2b7c-f26c-40c6-b92e-30f243543808",
+            "rewards": [
+              { "rewardType": 722065917, "value": 3 },
+              { "rewardType": 751382659, "value": 50 }
+            ]
+          },
+          "requiresAd": true,
+          "adPlacement": "010"
+        },
+        {
+          "requiredPoints": 250,
+          "freeReward": {
+            "id": "aaae1f5c-6d82-4379-b53a-60fe102e3e65",
+            "rewards": [{ "rewardType": -1085419483, "value": 5 }]
+          },
+          "premiumReward": {
+            "id": "f452d53a-96ae-47c0-b143-42649abff15a",
+            "rewards": [
+              { "rewardType": -1085419483, "value": 50 },
+              { "rewardType": -1878560402, "value": 5 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 250,
+          "freeReward": {
+            "id": "0a488f3a-6caf-4714-bbcc-0133152eea72",
+            "rewards": [{ "rewardType": -633437229, "value": 5000 }]
+          },
+          "premiumReward": {
+            "id": "91690c6b-9b6d-49e2-8552-444753bd08d3",
+            "rewards": [
+              { "rewardType": -633437229, "value": 8000 },
+              { "rewardType": 722065917, "value": 3 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 250,
+          "freeReward": {
+            "id": "cff4dc40-5403-4137-9ed9-3a3825ea834e",
+            "rewards": [{ "rewardType": -1878560402, "value": 3 }]
+          },
+          "premiumReward": {
+            "id": "30cfa5e5-eafa-41b5-b613-2b20ec6ea0e6",
+            "rewards": [
+              { "rewardType": -1509662453, "value": 3 },
+              { "rewardType": -633437229, "value": 5000 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 250,
+          "freeReward": {
+            "id": "2dfa0e47-ba07-47d9-b803-2c9fbc730300",
+            "rewards": [{ "rewardType": -1257912488, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "c89fa124-1f16-4e9b-8b6e-6e5e1774b5b3",
+            "rewards": [{ "rewardType": 926744219, "value": 1 }]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 250,
+          "freeReward": {
+            "id": "8b19ff0a-ed8f-48f3-a5af-816a9a5d314f",
+            "rewards": [{ "rewardType": -1085419483, "value": 10 }]
+          },
+          "premiumReward": {
+            "id": "fae468f4-532c-4fec-bb92-7a7922e23413",
+            "rewards": [
+              { "rewardType": -1085419483, "value": 100 },
+              { "rewardType": 722065917, "value": 3 }
+            ]
+          },
+          "requiresAd": true,
+          "adPlacement": "011"
+        },
+        {
+          "requiredPoints": 250,
+          "freeReward": {
+            "id": "7866ed64-22cf-4332-8f01-4b1fb1852fe7",
+            "rewards": [{ "rewardType": -1183814689, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "0b9a78e1-a4da-43f8-a689-8451c487a137",
+            "rewards": [
+              { "rewardType": 751382659, "value": 300 },
+              { "rewardType": -633437229, "value": 10000 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        }
+      ],
+      "missionSets": [
+        {
+          "unlockDelay": "0",
+          "missions": [
+            { "missionId": -1809742903, "unlockDelay": "0" },
+            { "missionId": -1481534301, "unlockDelay": "0" },
+            { "missionId": -1549182350, "unlockDelay": "0" },
+            { "missionId": 980028871, "unlockDelay": "0" },
+            { "missionId": -1056214505, "unlockDelay": "0" },
+            { "missionId": -680672991, "unlockDelay": "0" },
+            { "missionId": -1986200142, "unlockDelay": "0" },
+            { "missionId": -1118956068, "unlockDelay": "0" },
+            { "missionId": -145526530, "unlockDelay": "0" },
+            { "missionId": 911314832, "unlockDelay": "0" }
+          ]
+        },
+        {
+          "unlockDelay": "1",
+          "missions": [
+            { "missionId": 644625591, "unlockDelay": "0" },
+            { "missionId": 751043873, "unlockDelay": "0" },
+            { "missionId": 1158652415, "unlockDelay": "0" },
+            { "missionId": -601827314, "unlockDelay": "0" },
+            { "missionId": 1429266614, "unlockDelay": "1" },
+            { "missionId": 904071340, "unlockDelay": "2" },
+            { "missionId": 1050545747, "unlockDelay": "3" },
+            { "missionId": 734467625, "unlockDelay": "4" },
+            { "missionId": -1589703306, "unlockDelay": "5" },
+            { "missionId": 502120502, "unlockDelay": "6" }
+          ]
+        },
+        {
+          "unlockDelay": "8",
+          "missions": [
+            { "missionId": 1133609420, "unlockDelay": "0" },
+            { "missionId": 167971265, "unlockDelay": "0" },
+            { "missionId": -793791560, "unlockDelay": "0" },
+            { "missionId": -1531544324, "unlockDelay": "0" },
+            { "missionId": 279485038, "unlockDelay": "1" },
+            { "missionId": -392302612, "unlockDelay": "2" },
+            { "missionId": -800661955, "unlockDelay": "3" },
+            { "missionId": 1995492739, "unlockDelay": "4" },
+            { "missionId": -1445455474, "unlockDelay": "5" },
+            { "missionId": 1870248130, "unlockDelay": "6" }
+          ]
+        },
+        {
+          "unlockDelay": "15",
+          "missions": [
+            { "missionId": -293300908, "unlockDelay": "0" },
+            { "missionId": 1251092592, "unlockDelay": "0" },
+            { "missionId": 1934227710, "unlockDelay": "0" },
+            { "missionId": 218753104, "unlockDelay": "0" },
+            { "missionId": -1240168727, "unlockDelay": "1" },
+            { "missionId": 181564976, "unlockDelay": "2" },
+            { "missionId": -62739511, "unlockDelay": "3" },
+            { "missionId": -1388801701, "unlockDelay": "4" },
+            { "missionId": 1207475329, "unlockDelay": "5" },
+            { "missionId": 2129127661, "unlockDelay": "6" }
+          ]
+        },
+        {
+          "unlockDelay": "22",
+          "missions": [
+            { "missionId": -54906172, "unlockDelay": "0" },
+            { "missionId": 1794890014, "unlockDelay": "0" },
+            { "missionId": -288496120, "unlockDelay": "0" },
+            { "missionId": 1894645279, "unlockDelay": "0" },
+            { "missionId": -518478714, "unlockDelay": "0" },
+            { "missionId": 1910337511, "unlockDelay": "1" },
+            { "missionId": 106037604, "unlockDelay": "2" },
+            { "missionId": 1088667674, "unlockDelay": "3" },
+            { "missionId": 2098963905, "unlockDelay": "4" },
+            { "missionId": 1461423984, "unlockDelay": "5" }
+          ]
+        }
+      ],
+      "overflowTier": {
+        "requiredPoints": 500,
+        "reward": { "rewardType": -633437229, "value": 2000 }
+      }
+    },
+    {
+      "id": "0c284682-d509-49ed-9a12-e555bb9efdff",
+      "seasonKey": "season_georgie",
+      "startDate": "22/04/2026 09:00",
+      "endDate": "20/05/2026 08:59",
+      "tiers": [
+        {
+          "requiredPoints": 50,
+          "freeReward": {
+            "id": "91ec83a0-648c-40b8-be0c-c537dbc05a5e",
+            "rewards": [{ "rewardType": -633437229, "value": 2000 }]
+          },
+          "premiumReward": {
+            "id": "47c1f4fb-87d4-4ed8-95f8-d66da2b6da87",
+            "rewards": [{ "rewardType": -660251883, "value": 0 }]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "00080e1d-7661-4e55-9023-5e84fbd1222a",
+            "rewards": [{ "rewardType": 952771234, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "3fe2be02-22ad-433a-a8b3-de763ba9dc30",
+            "rewards": [{ "rewardType": 926744219, "value": 1 }]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "4d68f184-7673-4b62-ab41-06a3bdf4231a",
+            "rewards": [{ "rewardType": 1669706535, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "691e3b0a-bf93-4d74-b6f0-3b8c296b5a8f",
+            "rewards": [
+              { "rewardType": 1669706535, "value": 3 },
+              { "rewardType": -633437229, "value": 4000 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "3a6369bf-8ff0-4fb7-9376-a58ac64e7049",
+            "rewards": [{ "rewardType": -1257912488, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "1f031160-f174-4960-ab18-ea04372ee322",
+            "rewards": [
+              { "rewardType": 152379464, "value": 25 },
+              { "rewardType": 1669706535, "value": 3 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "b39cd9ac-c8a8-4f77-a49f-fc90f5220f73",
+            "rewards": [{ "rewardType": 952771234, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "5806b2f0-bd79-47d7-9026-9ec4d21e5d5a",
+            "rewards": [
+              { "rewardType": -1878560402, "value": 5 },
+              { "rewardType": -1085419483, "value": 50 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "f914df6e-786d-4596-8234-06e4aa80abf7",
+            "rewards": [{ "rewardType": 722065917, "value": 2 }]
+          },
+          "premiumReward": {
+            "id": "ba82ffa2-65b9-4d87-94a5-36d81216e59c",
+            "rewards": [
+              { "rewardType": 722065917, "value": 5 },
+              { "rewardType": 152379464, "value": 75 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "8003c175-f8ef-4349-afd7-70e35107432e",
+            "rewards": [{ "rewardType": -1878560402, "value": 2 }]
+          },
+          "premiumReward": {
+            "id": "a54c3f82-4e6b-48d1-b0bb-7cf32034f399",
+            "rewards": [
+              { "rewardType": -1878560402, "value": 3 },
+              { "rewardType": 1669706535, "value": 3 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "a1856fb8-6f07-4a45-b37f-b14c442ebe11",
+            "rewards": [{ "rewardType": -1085419483, "value": 5 }]
+          },
+          "premiumReward": {
+            "id": "955edfe2-67c6-4f5c-b67a-e8d07c17b797",
+            "rewards": [
+              { "rewardType": -1085419483, "value": 50 },
+              { "rewardType": -633437229, "value": 5000 }
+            ]
+          },
+          "requiresAd": true,
+          "adPlacement": "001"
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "066c441b-c6dd-46cc-89e7-a5860aead9b0",
+            "rewards": [{ "rewardType": -1257912488, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "a41f8094-c16f-457b-88ab-3ef0c6e46cc3",
+            "rewards": [
+              { "rewardType": 152379464, "value": 50 },
+              { "rewardType": -1085419483, "value": 50 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "16d557ff-8500-4710-9274-5f7817590b23",
+            "rewards": [{ "rewardType": 952771234, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "0240a1e9-d0b2-494b-87a7-a7fa52232607",
+            "rewards": [{ "rewardType": 926744219, "value": 1 }]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "39164569-af08-4900-aa50-c020a7ad8b80",
+            "rewards": [{ "rewardType": -633437229, "value": 2500 }]
+          },
+          "premiumReward": {
+            "id": "bbc1ef56-0506-41ad-ba82-b67c5420bbe5",
+            "rewards": [
+              { "rewardType": -633437229, "value": 6000 },
+              { "rewardType": 152379464, "value": 50 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "a6688f39-7419-4ea8-944c-f5cf3a892502",
+            "rewards": [{ "rewardType": -1257912488, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "6100f6bb-27e5-4369-91aa-9c3343489c0d",
+            "rewards": [
+              { "rewardType": 152379464, "value": 50 },
+              { "rewardType": 1669706535, "value": 3 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "8dcf18fc-8bbf-4da5-9e2d-2c38d1114c01",
+            "rewards": [{ "rewardType": -1085419483, "value": 5 }]
+          },
+          "premiumReward": {
+            "id": "317c6ea5-27fd-4300-adb9-13a9f851f729",
+            "rewards": [
+              { "rewardType": -1085419483, "value": 50 },
+              { "rewardType": -633437229, "value": 3000 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "502579a8-c9ff-44c8-8527-715e4d4f56d3",
+            "rewards": [{ "rewardType": 952771234, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "37f86dcd-aa72-4d13-a279-6d63030769d6",
+            "rewards": [
+              { "rewardType": -1509662453, "value": 5 },
+              { "rewardType": 722065917, "value": 3 }
+            ]
+          },
+          "requiresAd": true,
+          "adPlacement": "002"
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "8b9e054b-3a60-416d-835d-4d6401ab701d",
+            "rewards": [{ "rewardType": 1669706535, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "b4400ecf-5076-4e67-bf0d-cae85c0ad1b0",
+            "rewards": [
+              { "rewardType": 1669706535, "value": 3 },
+              { "rewardType": -633437229, "value": 3000 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "a30655b9-727b-45b9-a89b-7a657859fb96",
+            "rewards": [{ "rewardType": -1257912488, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "8f02bbfb-8f82-44f9-bdef-782652988ec1",
+            "rewards": [{ "rewardType": 926744219, "value": 1 }]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "b5dbab33-5429-4466-8197-2b31c6c62547",
+            "rewards": [{ "rewardType": 722065917, "value": 2 }]
+          },
+          "premiumReward": {
+            "id": "5e3a0af9-59cc-42e9-91cf-b748592a984c",
+            "rewards": [
+              { "rewardType": 722065917, "value": 3 },
+              { "rewardType": -1085419483, "value": 50 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "1998c02e-3201-4672-b03d-79c43157ea58",
+            "rewards": [{ "rewardType": -1878560402, "value": 2 }]
+          },
+          "premiumReward": {
+            "id": "40494844-9238-4eb9-8c76-d21ceb2d0f58",
+            "rewards": [
+              { "rewardType": -1878560402, "value": 3 },
+              { "rewardType": 722065917, "value": 3 }
+            ]
+          },
+          "requiresAd": true,
+          "adPlacement": "003"
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "f34c5a8b-a022-41fa-9470-04020a9f6fb5",
+            "rewards": [{ "rewardType": -633437229, "value": 2500 }]
+          },
+          "premiumReward": {
+            "id": "f1a0f0b4-a6d4-4719-8e0f-98b6b39c149b",
+            "rewards": [
+              { "rewardType": -633437229, "value": 3000 },
+              { "rewardType": 1669706535, "value": 3 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "f3ca5ddc-aa5f-4066-a483-19917dd07d18",
+            "rewards": [{ "rewardType": 722065917, "value": 2 }]
+          },
+          "premiumReward": {
+            "id": "c9242a7f-1dd5-42c8-8546-011df04ff55c",
+            "rewards": [
+              { "rewardType": 722065917, "value": 3 },
+              { "rewardType": -1509662453, "value": 3 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "0ffa2ee8-1e33-45c2-8a7c-cf646c3d1abf",
+            "rewards": [{ "rewardType": -1085419483, "value": 5 }]
+          },
+          "premiumReward": {
+            "id": "49e4e28e-f4de-40ba-b9b7-eeaea870737b",
+            "rewards": [
+              { "rewardType": -1085419483, "value": 50 },
+              { "rewardType": 152379464, "value": 50 }
+            ]
+          },
+          "requiresAd": true,
+          "adPlacement": "004"
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "70b02138-97f2-4dd6-918f-d7c4d5d9df59",
+            "rewards": [{ "rewardType": -1257912488, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "7aa1ca64-6fa2-4af4-9030-17ac806a910c",
+            "rewards": [
+              { "rewardType": -1509662453, "value": 3 },
+              { "rewardType": 722065917, "value": 3 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "c3645cc0-698d-4fec-bd28-fb9116ae5d2a",
+            "rewards": [{ "rewardType": 1669706535, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "d94f19dc-25b1-4e1a-8779-93abcaa57a01",
+            "rewards": [
+              { "rewardType": 1669706535, "value": 3 },
+              { "rewardType": -1509662453, "value": 3 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "091155c9-5c50-4000-9775-f6c85691597a",
+            "rewards": [{ "rewardType": 952771234, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "c69970e6-86a4-4370-ac77-578e716e3def",
+            "rewards": [
+              { "rewardType": 722065917, "value": 5 },
+              { "rewardType": 152379464, "value": 50 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "08d85c6b-c26e-46f5-978e-bdcc27d2acf6",
+            "rewards": [{ "rewardType": 926744219, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "9c0a9fa0-81cf-460a-a2a3-b7097359fb28",
+            "rewards": [{ "rewardType": -2111061719, "value": 1 }]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "da569e01-90af-464e-a7d9-2057a0d9844f",
+            "rewards": [{ "rewardType": -1878560402, "value": 2 }]
+          },
+          "premiumReward": {
+            "id": "a9fe2096-8766-4ed4-902e-9e9af719b721",
+            "rewards": [
+              { "rewardType": -1509662453, "value": 5 },
+              { "rewardType": -1085419483, "value": 50 }
+            ]
+          },
+          "requiresAd": true,
+          "adPlacement": "005"
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "5397f0a9-a046-4a73-8b1e-11c97f5b0a18",
+            "rewards": [{ "rewardType": 1669706535, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "75c572e3-4537-47c0-870e-d890c2c7d969",
+            "rewards": [
+              { "rewardType": 1669706535, "value": 3 },
+              { "rewardType": -633437229, "value": 5000 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "c82780e8-e200-4694-85b5-786edecec631",
+            "rewards": [{ "rewardType": -1257912488, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "0633362b-48a8-4b89-b769-5d7b9e5cb383",
+            "rewards": [
+              { "rewardType": 152379464, "value": 50 },
+              { "rewardType": -1878560402, "value": 3 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "55b95810-c65b-4f4e-a35c-64bca5603af0",
+            "rewards": [{ "rewardType": -1085419483, "value": 5 }]
+          },
+          "premiumReward": {
+            "id": "75e2a688-789f-4f3d-8120-832bdfe55bba",
+            "rewards": [
+              { "rewardType": -1085419483, "value": 50 },
+              { "rewardType": -633437229, "value": 3000 }
+            ]
+          },
+          "requiresAd": true,
+          "adPlacement": "006"
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "4faee80b-d925-45ab-80fe-da75e6229fe0",
+            "rewards": [{ "rewardType": 952771234, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "f2726c36-867f-4214-94c4-76a94fcdb2e5",
+            "rewards": [
+              { "rewardType": -633437229, "value": 5000 },
+              { "rewardType": 1669706535, "value": 3 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "3ab56cf3-a94e-42ea-b6f8-dc199b47f579",
+            "rewards": [{ "rewardType": -633437229, "value": 3000 }]
+          },
+          "premiumReward": {
+            "id": "08d8dfa6-565c-4500-b5ca-ade4a02846b1",
+            "rewards": [
+              { "rewardType": -1085419483, "value": 50 },
+              { "rewardType": 152379464, "value": 50 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "07aa5e17-41de-4e99-87af-814d285d42bc",
+            "rewards": [{ "rewardType": -1878560402, "value": 3 }]
+          },
+          "premiumReward": {
+            "id": "04c7aebe-1bc1-4703-b15f-175656e7499f",
+            "rewards": [
+              { "rewardType": -1878560402, "value": 3 },
+              { "rewardType": -633437229, "value": 4000 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "e740d0f3-a1bd-4475-af78-b8629e2055b7",
+            "rewards": [{ "rewardType": -1085419483, "value": 5 }]
+          },
+          "premiumReward": {
+            "id": "b2e74a12-b250-4005-9460-d9d02e489496",
+            "rewards": [
+              { "rewardType": -1085419483, "value": 50 },
+              { "rewardType": 152379464, "value": 50 }
+            ]
+          },
+          "requiresAd": true,
+          "adPlacement": "007"
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "aa7386d3-36c0-4492-aaf6-1508a9f7b843",
+            "rewards": [{ "rewardType": -1257912488, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "c41389b6-bfdc-472f-aba7-55529987cc91",
+            "rewards": [
+              { "rewardType": 722065917, "value": 3 },
+              { "rewardType": -1085419483, "value": 50 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "72b119c4-5ae6-486c-9001-f82423e1aa69",
+            "rewards": [{ "rewardType": -1878560402, "value": 2 }]
+          },
+          "premiumReward": {
+            "id": "c76dec18-d04f-47b9-9558-920220553eec",
+            "rewards": [
+              { "rewardType": -1509662453, "value": 3 },
+              { "rewardType": -1878560402, "value": 3 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "e5a28e90-a632-433e-a4a1-ddcba5835549",
+            "rewards": [{ "rewardType": -633437229, "value": 3000 }]
+          },
+          "premiumReward": {
+            "id": "85eb0b9b-938d-45d9-a246-699968989f62",
+            "rewards": [
+              { "rewardType": -633437229, "value": 5000 },
+              { "rewardType": 722065917, "value": 3 }
+            ]
+          },
+          "requiresAd": true,
+          "adPlacement": "008"
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "3c846838-6b67-4b9e-8a3e-e19180b82845",
+            "rewards": [{ "rewardType": -1085419483, "value": 5 }]
+          },
+          "premiumReward": {
+            "id": "b5b10a6b-4ed6-4fa8-8a05-aed8113df187",
+            "rewards": [
+              { "rewardType": -1085419483, "value": 50 },
+              { "rewardType": 152379464, "value": 50 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "dcadc560-e9e1-4eef-ac3a-e35787d2fb34",
+            "rewards": [{ "rewardType": 1669706535, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "c5d66d1d-4b2b-4287-9fae-729a45bf2b51",
+            "rewards": [
+              { "rewardType": 1669706535, "value": 5 },
+              { "rewardType": -633437229, "value": 5000 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "daf24080-7a23-49cc-bd3d-d6ac31daade5",
+            "rewards": [{ "rewardType": -1257912488, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "8b4bb30f-666c-4541-9ce6-9765faabec01",
+            "rewards": [
+              { "rewardType": 152379464, "value": 50 },
+              { "rewardType": -1085419483, "value": 50 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "7ca0beca-d2ca-46b0-ac89-dfb760165469",
+            "rewards": [{ "rewardType": -633437229, "value": 3000 }]
+          },
+          "premiumReward": {
+            "id": "39831d4a-58e2-49f0-8573-3634a3a0d157",
+            "rewards": [
+              { "rewardType": 722065917, "value": 3 },
+              { "rewardType": -1509662453, "value": 5 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "e922e542-9623-420b-a4f0-b69b9759e391",
+            "rewards": [{ "rewardType": 952771234, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "fea19387-3f5d-4bde-bf6c-4cdb3aabf845",
+            "rewards": [{ "rewardType": 926744219, "value": 1 }]
+          },
+          "requiresAd": true,
+          "adPlacement": "009"
+        },
+        {
+          "requiredPoints": 250,
+          "freeReward": {
+            "id": "043b272d-701b-4a33-8ad8-a335c0b37b7c",
+            "rewards": [{ "rewardType": -1878560402, "value": 3 }]
+          },
+          "premiumReward": {
+            "id": "49d718ed-78d4-4923-93e8-8ff325b1f6d5",
+            "rewards": [
+              { "rewardType": -1878560402, "value": 5 },
+              { "rewardType": 152379464, "value": 50 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 250,
+          "freeReward": {
+            "id": "48c32704-2a12-4e27-b3cc-473f79679f8c",
+            "rewards": [{ "rewardType": -633437229, "value": 5000 }]
+          },
+          "premiumReward": {
+            "id": "acd0d715-6477-4b95-8fa7-f7aa0c1989fa",
+            "rewards": [
+              { "rewardType": -1085419483, "value": 50 },
+              { "rewardType": -633437229, "value": 5000 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 250,
+          "freeReward": {
+            "id": "355c7d0a-57eb-4b94-9b9c-1f5377d8d577",
+            "rewards": [{ "rewardType": 722065917, "value": 2 }]
+          },
+          "premiumReward": {
+            "id": "077f2b7c-f26c-40c6-b92e-30f243543808",
+            "rewards": [
+              { "rewardType": 722065917, "value": 3 },
+              { "rewardType": 152379464, "value": 50 }
+            ]
+          },
+          "requiresAd": true,
+          "adPlacement": "010"
+        },
+        {
+          "requiredPoints": 250,
+          "freeReward": {
+            "id": "aaae1f5c-6d82-4379-b53a-60fe102e3e65",
+            "rewards": [{ "rewardType": -1085419483, "value": 5 }]
+          },
+          "premiumReward": {
+            "id": "f452d53a-96ae-47c0-b143-42649abff15a",
+            "rewards": [
+              { "rewardType": -1085419483, "value": 50 },
+              { "rewardType": -1878560402, "value": 5 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 250,
+          "freeReward": {
+            "id": "0a488f3a-6caf-4714-bbcc-0133152eea72",
+            "rewards": [{ "rewardType": -633437229, "value": 5000 }]
+          },
+          "premiumReward": {
+            "id": "91690c6b-9b6d-49e2-8552-444753bd08d3",
+            "rewards": [
+              { "rewardType": -633437229, "value": 8000 },
+              { "rewardType": 722065917, "value": 3 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 250,
+          "freeReward": {
+            "id": "cff4dc40-5403-4137-9ed9-3a3825ea834e",
+            "rewards": [{ "rewardType": -1878560402, "value": 3 }]
+          },
+          "premiumReward": {
+            "id": "30cfa5e5-eafa-41b5-b613-2b20ec6ea0e6",
+            "rewards": [
+              { "rewardType": -1509662453, "value": 3 },
+              { "rewardType": -633437229, "value": 5000 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 250,
+          "freeReward": {
+            "id": "2dfa0e47-ba07-47d9-b803-2c9fbc730300",
+            "rewards": [{ "rewardType": -1257912488, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "c89fa124-1f16-4e9b-8b6e-6e5e1774b5b3",
+            "rewards": [{ "rewardType": 926744219, "value": 1 }]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 250,
+          "freeReward": {
+            "id": "8b19ff0a-ed8f-48f3-a5af-816a9a5d314f",
+            "rewards": [{ "rewardType": -1085419483, "value": 10 }]
+          },
+          "premiumReward": {
+            "id": "fae468f4-532c-4fec-bb92-7a7922e23413",
+            "rewards": [
+              { "rewardType": -1085419483, "value": 100 },
+              { "rewardType": 722065917, "value": 3 }
+            ]
+          },
+          "requiresAd": true,
+          "adPlacement": "011"
+        },
+        {
+          "requiredPoints": 250,
+          "freeReward": {
+            "id": "7866ed64-22cf-4332-8f01-4b1fb1852fe7",
+            "rewards": [{ "rewardType": 463668802, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "0b9a78e1-a4da-43f8-a689-8451c487a137",
+            "rewards": [
+              { "rewardType": 152379464, "value": 300 },
+              { "rewardType": -633437229, "value": 10000 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        }
+      ],
+      "missionSets": [
+        {
+          "unlockDelay": "0",
+          "missions": [
+            { "missionId": -1809742903, "unlockDelay": "0" },
+            { "missionId": -1481534301, "unlockDelay": "0" },
+            { "missionId": -1549182350, "unlockDelay": "0" },
+            { "missionId": 980028871, "unlockDelay": "0" },
+            { "missionId": -1056214505, "unlockDelay": "0" },
+            { "missionId": -680672991, "unlockDelay": "0" },
+            { "missionId": -1986200142, "unlockDelay": "0" },
+            { "missionId": -1118956068, "unlockDelay": "0" },
+            { "missionId": -145526530, "unlockDelay": "0" },
+            { "missionId": 911314832, "unlockDelay": "0" }
+          ]
+        },
+        {
+          "unlockDelay": "1",
+          "missions": [
+            { "missionId": 644625591, "unlockDelay": "0" },
+            { "missionId": 751043873, "unlockDelay": "0" },
+            { "missionId": 1158652415, "unlockDelay": "0" },
+            { "missionId": -601827314, "unlockDelay": "0" },
+            { "missionId": 1429266614, "unlockDelay": "1" },
+            { "missionId": 904071340, "unlockDelay": "2" },
+            { "missionId": 1050545747, "unlockDelay": "3" },
+            { "missionId": 734467625, "unlockDelay": "4" },
+            { "missionId": -1589703306, "unlockDelay": "5" },
+            { "missionId": 502120502, "unlockDelay": "6" }
+          ]
+        },
+        {
+          "unlockDelay": "8",
+          "missions": [
+            { "missionId": 1133609420, "unlockDelay": "0" },
+            { "missionId": 167971265, "unlockDelay": "0" },
+            { "missionId": -793791560, "unlockDelay": "0" },
+            { "missionId": -1531544324, "unlockDelay": "0" },
+            { "missionId": 279485038, "unlockDelay": "1" },
+            { "missionId": -392302612, "unlockDelay": "2" },
+            { "missionId": -800661955, "unlockDelay": "3" },
+            { "missionId": 1995492739, "unlockDelay": "4" },
+            { "missionId": -1445455474, "unlockDelay": "5" },
+            { "missionId": 1870248130, "unlockDelay": "6" }
+          ]
+        },
+        {
+          "unlockDelay": "15",
+          "missions": [
+            { "missionId": -293300908, "unlockDelay": "0" },
+            { "missionId": 1251092592, "unlockDelay": "0" },
+            { "missionId": 1934227710, "unlockDelay": "0" },
+            { "missionId": 218753104, "unlockDelay": "0" },
+            { "missionId": -1240168727, "unlockDelay": "1" },
+            { "missionId": 181564976, "unlockDelay": "2" },
+            { "missionId": -62739511, "unlockDelay": "3" },
+            { "missionId": -1388801701, "unlockDelay": "4" },
+            { "missionId": 1207475329, "unlockDelay": "5" },
+            { "missionId": 2129127661, "unlockDelay": "6" }
+          ]
+        },
+        {
+          "unlockDelay": "22",
+          "missions": [
+            { "missionId": -54906172, "unlockDelay": "0" },
+            { "missionId": 1794890014, "unlockDelay": "0" },
+            { "missionId": -288496120, "unlockDelay": "0" },
+            { "missionId": 1894645279, "unlockDelay": "0" },
+            { "missionId": -518478714, "unlockDelay": "0" },
+            { "missionId": 1910337511, "unlockDelay": "1" },
+            { "missionId": 106037604, "unlockDelay": "2" },
+            { "missionId": 1088667674, "unlockDelay": "3" },
+            { "missionId": 2098963905, "unlockDelay": "4" },
+            { "missionId": 1461423984, "unlockDelay": "5" }
+          ]
+        }
+      ],
+      "overflowTier": {
+        "requiredPoints": 500,
+        "reward": { "rewardType": -633437229, "value": 2000 }
+      }
+    },
+    {
+      "id": "Template",
+      "seasonKey": "season_0010",
+      "startDate": "31/12/2055 09:00",
+      "endDate": "31/01/2056 08:59",
+      "tiers": [
+        {
+          "requiredPoints": 50,
+          "freeReward": {
+            "id": "91ec83a0-648c-40b8-be0c-c537dbc05a5e",
+            "rewards": [{ "rewardType": -633437229, "value": 2000 }]
+          },
+          "premiumReward": {
+            "id": "47c1f4fb-87d4-4ed8-95f8-d66da2b6da87",
+            "rewards": [{ "rewardType": 714918795, "value": 0 }]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "00080e1d-7661-4e55-9023-5e84fbd1222a",
+            "rewards": [{ "rewardType": 952771234, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "3fe2be02-22ad-433a-a8b3-de763ba9dc30",
+            "rewards": [{ "rewardType": 926744219, "value": 1 }]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "4d68f184-7673-4b62-ab41-06a3bdf4231a",
+            "rewards": [{ "rewardType": 1669706535, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "691e3b0a-bf93-4d74-b6f0-3b8c296b5a8f",
+            "rewards": [
+              { "rewardType": 1669706535, "value": 3 },
+              { "rewardType": -633437229, "value": 4000 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "3a6369bf-8ff0-4fb7-9376-a58ac64e7049",
+            "rewards": [{ "rewardType": -1257912488, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "1f031160-f174-4960-ab18-ea04372ee322",
+            "rewards": [
+              { "rewardType": -80957226, "value": 25 },
+              { "rewardType": 1669706535, "value": 3 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "b39cd9ac-c8a8-4f77-a49f-fc90f5220f73",
+            "rewards": [{ "rewardType": 952771234, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "5806b2f0-bd79-47d7-9026-9ec4d21e5d5a",
+            "rewards": [
+              { "rewardType": -1878560402, "value": 5 },
+              { "rewardType": -1085419483, "value": 50 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "f914df6e-786d-4596-8234-06e4aa80abf7",
+            "rewards": [{ "rewardType": 722065917, "value": 2 }]
+          },
+          "premiumReward": {
+            "id": "ba82ffa2-65b9-4d87-94a5-36d81216e59c",
+            "rewards": [
+              { "rewardType": 722065917, "value": 5 },
+              { "rewardType": -80957226, "value": 75 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "8003c175-f8ef-4349-afd7-70e35107432e",
+            "rewards": [{ "rewardType": -1878560402, "value": 2 }]
+          },
+          "premiumReward": {
+            "id": "a54c3f82-4e6b-48d1-b0bb-7cf32034f399",
+            "rewards": [
+              { "rewardType": -1878560402, "value": 3 },
+              { "rewardType": 1669706535, "value": 3 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "a1856fb8-6f07-4a45-b37f-b14c442ebe11",
+            "rewards": [{ "rewardType": -1085419483, "value": 5 }]
+          },
+          "premiumReward": {
+            "id": "955edfe2-67c6-4f5c-b67a-e8d07c17b797",
+            "rewards": [
+              { "rewardType": -1085419483, "value": 50 },
+              { "rewardType": -633437229, "value": 5000 }
+            ]
+          },
+          "requiresAd": true,
+          "adPlacement": "001"
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "066c441b-c6dd-46cc-89e7-a5860aead9b0",
+            "rewards": [{ "rewardType": -1257912488, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "a41f8094-c16f-457b-88ab-3ef0c6e46cc3",
+            "rewards": [
+              { "rewardType": -80957226, "value": 50 },
+              { "rewardType": -1085419483, "value": 50 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "16d557ff-8500-4710-9274-5f7817590b23",
+            "rewards": [{ "rewardType": 952771234, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "0240a1e9-d0b2-494b-87a7-a7fa52232607",
+            "rewards": [{ "rewardType": 926744219, "value": 1 }]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "39164569-af08-4900-aa50-c020a7ad8b80",
+            "rewards": [{ "rewardType": -633437229, "value": 2500 }]
+          },
+          "premiumReward": {
+            "id": "bbc1ef56-0506-41ad-ba82-b67c5420bbe5",
+            "rewards": [
+              { "rewardType": -633437229, "value": 6000 },
+              { "rewardType": -80957226, "value": 50 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "a6688f39-7419-4ea8-944c-f5cf3a892502",
+            "rewards": [{ "rewardType": -1257912488, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "6100f6bb-27e5-4369-91aa-9c3343489c0d",
+            "rewards": [
+              { "rewardType": -80957226, "value": 50 },
+              { "rewardType": 1669706535, "value": 3 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "8dcf18fc-8bbf-4da5-9e2d-2c38d1114c01",
+            "rewards": [{ "rewardType": -1085419483, "value": 5 }]
+          },
+          "premiumReward": {
+            "id": "317c6ea5-27fd-4300-adb9-13a9f851f729",
+            "rewards": [
+              { "rewardType": -1085419483, "value": 50 },
+              { "rewardType": -633437229, "value": 3000 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "502579a8-c9ff-44c8-8527-715e4d4f56d3",
+            "rewards": [{ "rewardType": 952771234, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "37f86dcd-aa72-4d13-a279-6d63030769d6",
+            "rewards": [
+              { "rewardType": -1509662453, "value": 5 },
+              { "rewardType": 722065917, "value": 3 }
+            ]
+          },
+          "requiresAd": true,
+          "adPlacement": "002"
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "8b9e054b-3a60-416d-835d-4d6401ab701d",
+            "rewards": [{ "rewardType": 1669706535, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "b4400ecf-5076-4e67-bf0d-cae85c0ad1b0",
+            "rewards": [
+              { "rewardType": 1669706535, "value": 3 },
+              { "rewardType": -633437229, "value": 3000 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 150,
+          "freeReward": {
+            "id": "a30655b9-727b-45b9-a89b-7a657859fb96",
+            "rewards": [{ "rewardType": -1257912488, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "8f02bbfb-8f82-44f9-bdef-782652988ec1",
+            "rewards": [{ "rewardType": 926744219, "value": 1 }]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "b5dbab33-5429-4466-8197-2b31c6c62547",
+            "rewards": [{ "rewardType": 722065917, "value": 2 }]
+          },
+          "premiumReward": {
+            "id": "5e3a0af9-59cc-42e9-91cf-b748592a984c",
+            "rewards": [
+              { "rewardType": 722065917, "value": 3 },
+              { "rewardType": -1085419483, "value": 50 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "1998c02e-3201-4672-b03d-79c43157ea58",
+            "rewards": [{ "rewardType": -1878560402, "value": 2 }]
+          },
+          "premiumReward": {
+            "id": "40494844-9238-4eb9-8c76-d21ceb2d0f58",
+            "rewards": [
+              { "rewardType": -1878560402, "value": 3 },
+              { "rewardType": 722065917, "value": 3 }
+            ]
+          },
+          "requiresAd": true,
+          "adPlacement": "003"
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "f34c5a8b-a022-41fa-9470-04020a9f6fb5",
+            "rewards": [{ "rewardType": -633437229, "value": 2500 }]
+          },
+          "premiumReward": {
+            "id": "f1a0f0b4-a6d4-4719-8e0f-98b6b39c149b",
+            "rewards": [
+              { "rewardType": -633437229, "value": 3000 },
+              { "rewardType": 1669706535, "value": 3 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "f3ca5ddc-aa5f-4066-a483-19917dd07d18",
+            "rewards": [{ "rewardType": 722065917, "value": 2 }]
+          },
+          "premiumReward": {
+            "id": "c9242a7f-1dd5-42c8-8546-011df04ff55c",
+            "rewards": [
+              { "rewardType": 722065917, "value": 3 },
+              { "rewardType": -1509662453, "value": 3 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "0ffa2ee8-1e33-45c2-8a7c-cf646c3d1abf",
+            "rewards": [{ "rewardType": -1085419483, "value": 5 }]
+          },
+          "premiumReward": {
+            "id": "49e4e28e-f4de-40ba-b9b7-eeaea870737b",
+            "rewards": [
+              { "rewardType": -1085419483, "value": 50 },
+              { "rewardType": -80957226, "value": 50 }
+            ]
+          },
+          "requiresAd": true,
+          "adPlacement": "004"
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "70b02138-97f2-4dd6-918f-d7c4d5d9df59",
+            "rewards": [{ "rewardType": -1257912488, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "7aa1ca64-6fa2-4af4-9030-17ac806a910c",
+            "rewards": [
+              { "rewardType": -1509662453, "value": 3 },
+              { "rewardType": 722065917, "value": 3 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "c3645cc0-698d-4fec-bd28-fb9116ae5d2a",
+            "rewards": [{ "rewardType": 1669706535, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "d94f19dc-25b1-4e1a-8779-93abcaa57a01",
+            "rewards": [
+              { "rewardType": 1669706535, "value": 3 },
+              { "rewardType": -1509662453, "value": 3 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "091155c9-5c50-4000-9775-f6c85691597a",
+            "rewards": [{ "rewardType": 952771234, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "c69970e6-86a4-4370-ac77-578e716e3def",
+            "rewards": [
+              { "rewardType": 722065917, "value": 5 },
+              { "rewardType": -80957226, "value": 50 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "08d85c6b-c26e-46f5-978e-bdcc27d2acf6",
+            "rewards": [{ "rewardType": 926744219, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "9c0a9fa0-81cf-460a-a2a3-b7097359fb28",
+            "rewards": [{ "rewardType": -1413457549, "value": 1 }]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "da569e01-90af-464e-a7d9-2057a0d9844f",
+            "rewards": [{ "rewardType": -1878560402, "value": 2 }]
+          },
+          "premiumReward": {
+            "id": "a9fe2096-8766-4ed4-902e-9e9af719b721",
+            "rewards": [
+              { "rewardType": -1509662453, "value": 5 },
+              { "rewardType": -1085419483, "value": 50 }
+            ]
+          },
+          "requiresAd": true,
+          "adPlacement": "005"
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "5397f0a9-a046-4a73-8b1e-11c97f5b0a18",
+            "rewards": [{ "rewardType": 1669706535, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "75c572e3-4537-47c0-870e-d890c2c7d969",
+            "rewards": [
+              { "rewardType": 1669706535, "value": 3 },
+              { "rewardType": -633437229, "value": 5000 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "c82780e8-e200-4694-85b5-786edecec631",
+            "rewards": [{ "rewardType": -1257912488, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "0633362b-48a8-4b89-b769-5d7b9e5cb383",
+            "rewards": [
+              { "rewardType": -80957226, "value": 50 },
+              { "rewardType": -1878560402, "value": 3 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "55b95810-c65b-4f4e-a35c-64bca5603af0",
+            "rewards": [{ "rewardType": -1085419483, "value": 5 }]
+          },
+          "premiumReward": {
+            "id": "75e2a688-789f-4f3d-8120-832bdfe55bba",
+            "rewards": [
+              { "rewardType": -1085419483, "value": 50 },
+              { "rewardType": -633437229, "value": 3000 }
+            ]
+          },
+          "requiresAd": true,
+          "adPlacement": "006"
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "4faee80b-d925-45ab-80fe-da75e6229fe0",
+            "rewards": [{ "rewardType": 952771234, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "f2726c36-867f-4214-94c4-76a94fcdb2e5",
+            "rewards": [
+              { "rewardType": -633437229, "value": 5000 },
+              { "rewardType": 1669706535, "value": 3 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "3ab56cf3-a94e-42ea-b6f8-dc199b47f579",
+            "rewards": [{ "rewardType": -633437229, "value": 3000 }]
+          },
+          "premiumReward": {
+            "id": "08d8dfa6-565c-4500-b5ca-ade4a02846b1",
+            "rewards": [
+              { "rewardType": -1085419483, "value": 50 },
+              { "rewardType": -80957226, "value": 50 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "07aa5e17-41de-4e99-87af-814d285d42bc",
+            "rewards": [{ "rewardType": -1878560402, "value": 3 }]
+          },
+          "premiumReward": {
+            "id": "04c7aebe-1bc1-4703-b15f-175656e7499f",
+            "rewards": [
+              { "rewardType": -1878560402, "value": 3 },
+              { "rewardType": -633437229, "value": 4000 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "e740d0f3-a1bd-4475-af78-b8629e2055b7",
+            "rewards": [{ "rewardType": -1085419483, "value": 5 }]
+          },
+          "premiumReward": {
+            "id": "b2e74a12-b250-4005-9460-d9d02e489496",
+            "rewards": [
+              { "rewardType": -1085419483, "value": 50 },
+              { "rewardType": -80957226, "value": 50 }
+            ]
+          },
+          "requiresAd": true,
+          "adPlacement": "007"
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "aa7386d3-36c0-4492-aaf6-1508a9f7b843",
+            "rewards": [{ "rewardType": -1257912488, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "c41389b6-bfdc-472f-aba7-55529987cc91",
+            "rewards": [
+              { "rewardType": 722065917, "value": 3 },
+              { "rewardType": -1085419483, "value": 50 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "72b119c4-5ae6-486c-9001-f82423e1aa69",
+            "rewards": [{ "rewardType": -1878560402, "value": 2 }]
+          },
+          "premiumReward": {
+            "id": "c76dec18-d04f-47b9-9558-920220553eec",
+            "rewards": [
+              { "rewardType": -1509662453, "value": 3 },
+              { "rewardType": -1878560402, "value": 3 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "e5a28e90-a632-433e-a4a1-ddcba5835549",
+            "rewards": [{ "rewardType": -633437229, "value": 3000 }]
+          },
+          "premiumReward": {
+            "id": "85eb0b9b-938d-45d9-a246-699968989f62",
+            "rewards": [
+              { "rewardType": -633437229, "value": 5000 },
+              { "rewardType": 722065917, "value": 3 }
+            ]
+          },
+          "requiresAd": true,
+          "adPlacement": "008"
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "3c846838-6b67-4b9e-8a3e-e19180b82845",
+            "rewards": [{ "rewardType": -1085419483, "value": 5 }]
+          },
+          "premiumReward": {
+            "id": "b5b10a6b-4ed6-4fa8-8a05-aed8113df187",
+            "rewards": [
+              { "rewardType": -1085419483, "value": 50 },
+              { "rewardType": -80957226, "value": 50 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "dcadc560-e9e1-4eef-ac3a-e35787d2fb34",
+            "rewards": [{ "rewardType": 1669706535, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "c5d66d1d-4b2b-4287-9fae-729a45bf2b51",
+            "rewards": [
+              { "rewardType": 1669706535, "value": 5 },
+              { "rewardType": -633437229, "value": 5000 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "daf24080-7a23-49cc-bd3d-d6ac31daade5",
+            "rewards": [{ "rewardType": -1257912488, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "8b4bb30f-666c-4541-9ce6-9765faabec01",
+            "rewards": [
+              { "rewardType": -80957226, "value": 50 },
+              { "rewardType": -1085419483, "value": 50 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "7ca0beca-d2ca-46b0-ac89-dfb760165469",
+            "rewards": [{ "rewardType": -633437229, "value": 3000 }]
+          },
+          "premiumReward": {
+            "id": "39831d4a-58e2-49f0-8573-3634a3a0d157",
+            "rewards": [
+              { "rewardType": 722065917, "value": 3 },
+              { "rewardType": -1509662453, "value": 5 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 200,
+          "freeReward": {
+            "id": "e922e542-9623-420b-a4f0-b69b9759e391",
+            "rewards": [{ "rewardType": 952771234, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "fea19387-3f5d-4bde-bf6c-4cdb3aabf845",
+            "rewards": [{ "rewardType": 926744219, "value": 1 }]
+          },
+          "requiresAd": true,
+          "adPlacement": "009"
+        },
+        {
+          "requiredPoints": 250,
+          "freeReward": {
+            "id": "043b272d-701b-4a33-8ad8-a335c0b37b7c",
+            "rewards": [{ "rewardType": -1878560402, "value": 3 }]
+          },
+          "premiumReward": {
+            "id": "49d718ed-78d4-4923-93e8-8ff325b1f6d5",
+            "rewards": [
+              { "rewardType": -1878560402, "value": 5 },
+              { "rewardType": -80957226, "value": 50 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 250,
+          "freeReward": {
+            "id": "48c32704-2a12-4e27-b3cc-473f79679f8c",
+            "rewards": [{ "rewardType": -633437229, "value": 5000 }]
+          },
+          "premiumReward": {
+            "id": "acd0d715-6477-4b95-8fa7-f7aa0c1989fa",
+            "rewards": [
+              { "rewardType": -1085419483, "value": 50 },
+              { "rewardType": -633437229, "value": 5000 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 250,
+          "freeReward": {
+            "id": "355c7d0a-57eb-4b94-9b9c-1f5377d8d577",
+            "rewards": [{ "rewardType": 722065917, "value": 2 }]
+          },
+          "premiumReward": {
+            "id": "077f2b7c-f26c-40c6-b92e-30f243543808",
+            "rewards": [
+              { "rewardType": 722065917, "value": 3 },
+              { "rewardType": -80957226, "value": 50 }
+            ]
+          },
+          "requiresAd": true,
+          "adPlacement": "010"
+        },
+        {
+          "requiredPoints": 250,
+          "freeReward": {
+            "id": "aaae1f5c-6d82-4379-b53a-60fe102e3e65",
+            "rewards": [{ "rewardType": -1085419483, "value": 5 }]
+          },
+          "premiumReward": {
+            "id": "f452d53a-96ae-47c0-b143-42649abff15a",
+            "rewards": [
+              { "rewardType": -1085419483, "value": 50 },
+              { "rewardType": -1878560402, "value": 5 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 250,
+          "freeReward": {
+            "id": "0a488f3a-6caf-4714-bbcc-0133152eea72",
+            "rewards": [{ "rewardType": -633437229, "value": 5000 }]
+          },
+          "premiumReward": {
+            "id": "91690c6b-9b6d-49e2-8552-444753bd08d3",
+            "rewards": [
+              { "rewardType": -633437229, "value": 8000 },
+              { "rewardType": 722065917, "value": 3 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 250,
+          "freeReward": {
+            "id": "cff4dc40-5403-4137-9ed9-3a3825ea834e",
+            "rewards": [{ "rewardType": -1878560402, "value": 3 }]
+          },
+          "premiumReward": {
+            "id": "30cfa5e5-eafa-41b5-b613-2b20ec6ea0e6",
+            "rewards": [
+              { "rewardType": -1509662453, "value": 3 },
+              { "rewardType": -633437229, "value": 5000 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 250,
+          "freeReward": {
+            "id": "2dfa0e47-ba07-47d9-b803-2c9fbc730300",
+            "rewards": [{ "rewardType": -1257912488, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "c89fa124-1f16-4e9b-8b6e-6e5e1774b5b3",
+            "rewards": [{ "rewardType": 926744219, "value": 1 }]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        },
+        {
+          "requiredPoints": 250,
+          "freeReward": {
+            "id": "8b19ff0a-ed8f-48f3-a5af-816a9a5d314f",
+            "rewards": [{ "rewardType": -1085419483, "value": 10 }]
+          },
+          "premiumReward": {
+            "id": "fae468f4-532c-4fec-bb92-7a7922e23413",
+            "rewards": [
+              { "rewardType": -1085419483, "value": 100 },
+              { "rewardType": 722065917, "value": 3 }
+            ]
+          },
+          "requiresAd": true,
+          "adPlacement": "011"
+        },
+        {
+          "requiredPoints": 250,
+          "freeReward": {
+            "id": "7866ed64-22cf-4332-8f01-4b1fb1852fe7",
+            "rewards": [{ "rewardType": -831559194, "value": 1 }]
+          },
+          "premiumReward": {
+            "id": "0b9a78e1-a4da-43f8-a689-8451c487a137",
+            "rewards": [
+              { "rewardType": -80957226, "value": 300 },
+              { "rewardType": -633437229, "value": 10000 }
+            ]
+          },
+          "requiresAd": false,
+          "adPlacement": ""
+        }
+      ],
+      "missionSets": [
+        {
+          "unlockDelay": "0",
+          "missions": [
+            { "missionId": -1809742903, "unlockDelay": "0" },
+            { "missionId": -1481534301, "unlockDelay": "0" },
+            { "missionId": -1549182350, "unlockDelay": "0" },
+            { "missionId": 980028871, "unlockDelay": "0" },
+            { "missionId": -1056214505, "unlockDelay": "0" },
+            { "missionId": -680672991, "unlockDelay": "0" },
+            { "missionId": -1986200142, "unlockDelay": "0" },
+            { "missionId": -1118956068, "unlockDelay": "0" },
+            { "missionId": -145526530, "unlockDelay": "0" },
+            { "missionId": 911314832, "unlockDelay": "0" }
+          ]
+        },
+        {
+          "unlockDelay": "1",
+          "missions": [
+            { "missionId": 644625591, "unlockDelay": "0" },
+            { "missionId": 751043873, "unlockDelay": "0" },
+            { "missionId": 1158652415, "unlockDelay": "0" },
+            { "missionId": -601827314, "unlockDelay": "0" },
+            { "missionId": 1429266614, "unlockDelay": "1" },
+            { "missionId": 904071340, "unlockDelay": "2" },
+            { "missionId": 1050545747, "unlockDelay": "3" },
+            { "missionId": 734467625, "unlockDelay": "4" },
+            { "missionId": -1589703306, "unlockDelay": "5" },
+            { "missionId": 502120502, "unlockDelay": "6" }
+          ]
+        },
+        {
+          "unlockDelay": "8",
+          "missions": [
+            { "missionId": 1133609420, "unlockDelay": "0" },
+            { "missionId": 167971265, "unlockDelay": "0" },
+            { "missionId": -793791560, "unlockDelay": "0" },
+            { "missionId": -1531544324, "unlockDelay": "0" },
+            { "missionId": 279485038, "unlockDelay": "1" },
+            { "missionId": -392302612, "unlockDelay": "2" },
+            { "missionId": -800661955, "unlockDelay": "3" },
+            { "missionId": 1995492739, "unlockDelay": "4" },
+            { "missionId": -1445455474, "unlockDelay": "5" },
+            { "missionId": 1870248130, "unlockDelay": "6" }
+          ]
+        },
+        {
+          "unlockDelay": "15",
+          "missions": [
+            { "missionId": -293300908, "unlockDelay": "0" },
+            { "missionId": 1251092592, "unlockDelay": "0" },
+            { "missionId": 1934227710, "unlockDelay": "0" },
+            { "missionId": 218753104, "unlockDelay": "0" },
+            { "missionId": -1240168727, "unlockDelay": "1" },
+            { "missionId": 181564976, "unlockDelay": "2" },
+            { "missionId": -62739511, "unlockDelay": "3" },
+            { "missionId": -1388801701, "unlockDelay": "4" },
+            { "missionId": 1207475329, "unlockDelay": "5" },
+            { "missionId": 2129127661, "unlockDelay": "6" }
+          ]
+        },
+        {
+          "unlockDelay": "22",
+          "missions": [
+            { "missionId": -54906172, "unlockDelay": "0" },
+            { "missionId": 1794890014, "unlockDelay": "0" },
+            { "missionId": -288496120, "unlockDelay": "0" },
+            { "missionId": 1894645279, "unlockDelay": "0" },
+            { "missionId": -518478714, "unlockDelay": "0" },
+            { "missionId": 1910337511, "unlockDelay": "1" },
+            { "missionId": 106037604, "unlockDelay": "2" },
+            { "missionId": 1088667674, "unlockDelay": "3" },
+            { "missionId": 2098963905, "unlockDelay": "4" },
+            { "missionId": 1461423984, "unlockDelay": "5" }
+          ]
+        }
+      ],
+      "overflowTier": {
+        "requiredPoints": 500,
+        "reward": { "rewardType": -633437229, "value": 2000 }
+      }
+    }
+  ],
+  "productId": "premium_pass"
+}

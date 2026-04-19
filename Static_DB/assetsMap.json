@@ -1,0 +1,596 @@
+{
+  "surfers": {
+    "135046766": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/a/aa/Monique1.png/revision/latest/scale-to-width-down/150?cb=20250301174300"
+    },
+    "299562833": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/8/89/Tasha1.png/revision/latest/scale-to-width-down/250?cb=20241214175130"
+    },
+    "581326566": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/5/5d/Billy1.png/revision/latest/scale-to-width-down/250?cb=20241212213447"
+    },
+    "823378763": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/c/c5/Harini.png/revision/latest/scale-to-width-down/250?cb=20251130132304"
+    },
+    "849273384": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/b/b2/Spike1.png/revision/latest/scale-to-width-down/250?cb=20241212220815"
+    },
+    "852717139": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/1/1b/Lucy1.png/revision/latest/scale-to-width-down/250?cb=20241214183300"
+    },
+    "966716028": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/9/9a/Ash1.png/revision/latest/scale-to-width-down/250?cb=20241214181455"
+    },
+    "1120354844": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/e/e3/Jay1.png/revision/latest/scale-to-width-down/250?cb=20241212213447"
+    },
+    "1200047034": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/c/c9/Ella1.png/revision/latest/scale-to-width-down/250?cb=20241212221019"
+    },
+    "1363767693": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/5/5e/Jenny1.png/revision/latest/scale-to-width-down/250?cb=20241214181956"
+    },
+    "1614866432": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/f/ff/MissMaia1.png/revision/latest/scale-to-width-down/250?cb=20241212213444"
+    },
+    "1663244716": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/d/d6/Yutani1.png/revision/latest/scale-to-width-down/250?cb=20241212212208"
+    },
+    "1804257387": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/9/93/NinjaOne1.png/revision/latest/scale-to-width-down/250?cb=20241212213728"
+    },
+    "1887684367": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/7/74/Tagbot1.png/revision/latest/scale-to-width-down/250?cb=20241212220813"
+    },
+    "1900660162": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/f/fd/Tricky1.png/revision/latest/scale-to-width-down/250?cb=20241212205745"
+    },
+    "1936280213": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/4/4e/PrinceK1.png/revision/latest/scale-to-width-down/150?cb=20260330163557"
+    },
+    "2129411796": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/f/f1/Fresh1.png/revision/latest/scale-to-width-down/250?cb=20241212210750"
+    },
+    "-2125407733": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/b/ba/Georgie.png/revision/latest/scale-to-width-down/250?cb=20251130132224"
+    },
+    "-1733051898": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/8/89/Jaewoo1.png/revision/latest/scale-to-width-down/250?cb=20241214181218"
+    },
+    "-1836944478": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/c/c8/Jake1.png/revision/latest/scale-to-width-down/250?cb=20260125163230"
+    },
+    "-2116248615": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/3/3b/Lilah1.png/revision/latest/scale-to-width-down/250?cb=20241214180046"
+    },
+    "-502265868": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/a/a5/Noon1.png/revision/latest/scale-to-width-down/250?cb=20260216233639"
+    },
+    "-1505268145": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/0/04/Rosalita1.png/revision/latest/scale-to-width-down/250?cb=20241212213447"
+    },
+    "-1534276928": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/d/dc/V3ct0r.png/revision/latest/scale-to-width-down/250?cb=20260328045505"
+    },
+    "-518167090": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/6/6b/Wei1.png/revision/latest/scale-to-width-down/135?cb=20250301174232"
+    },
+    "-2075784936": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/b/bd/Zara1.png/revision/latest/scale-to-width-down/250?cb=20260330163527"
+    }
+  },
+  "boards": {
+    "369661746": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/a/ad/Cobweb1.png/revision/latest/scale-to-width-down/250?cb=20241214192826"
+    },
+    "463203314": {
+      "type": "placeholder",
+      "value": "KNOCKOUT"
+    },
+    "797961277": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/5/53/Naughty%26Nice1.png/revision/latest/scale-to-width-down/250?cb=20250528014009"
+    },
+    "821107692": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/2/23/Trasher1.png/revision/latest/scale-to-width-down/250?cb=20250528023154"
+    },
+    "857306595": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/6/63/ElectricBlue1.png/revision/latest/scale-to-width-down/250?cb=20260208212308"
+    },
+    "1016074756": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/a/ac/Peaceofgrind1.png/revision/latest/scale-to-width-down/250?cb=20260208213202"
+    },
+    "1092080220": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/0/04/Pawesome.png/revision/latest/scale-to-width-down/250?cb=20251130132311"
+    },
+    "1346993456": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/d/d3/Globetrotter1.png/revision/latest/scale-to-width-down/250?cb=20260208213300"
+    },
+    "1389875337": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/5/58/Super_Hooper.png/revision/latest/scale-to-width-down/250?cb=20251130132234"
+    },
+    "-1702093280": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/7/71/Aquiline1.png/revision/latest/scale-to-width-down/250?cb=20260208212805"
+    },
+    "-2014824727": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/9/91/CYBoard1.png/revision/latest/scale-to-width-down/250?cb=20250528015027"
+    },
+    "-1995581156": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/0/05/DayoftheShred1.png/revision/latest/scale-to-width-down/250?cb=20250528020113"
+    },
+    "-2028224723": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/1/18/DjinnsFortune1.png/revision/latest/scale-to-width-down/250?cb=20260208213339"
+    },
+    "-875752536": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/9/9f/DogCity1.png/revision/latest/scale-to-width-down/250?cb=20250527110339"
+    },
+    "-1101319815": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/9/99/EyeoftheViper1.png/revision/latest/scale-to-width-down/250?cb=20250527110405"
+    },
+    "-282672473": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/9/90/FlameTamer1.png/revision/latest/scale-to-width-down/250?cb=20260208213406"
+    },
+    "-1946062440": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/7/7f/GTiger1.png/revision/latest/scale-to-width-down/250?cb=20260208213017"
+    },
+    "-2027086747": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/e/e7/TheGrandmaster1.png/revision/latest/scale-to-width-down/250?cb=20250528022151"
+    },
+    "-268124908": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/f/f5/H4x0r.png/revision/latest/scale-to-width-down/250?cb=20251130132254"
+    },
+    "-1398156391": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/7/71/HomeRunner1.png/revision/latest/scale-to-width-down/250?cb=20260208213034"
+    },
+    "-1569537423": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/f/f1/Honeycomb1.png/revision/latest/scale-to-width-down/250?cb=20260208213100"
+    },
+    "-762458939": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/2/29/Pouncer1.png/revision/latest/scale-to-width-down/250?cb=20260208212928"
+    },
+    "-2089484430": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/3/3e/SpacedInvader1.png/revision/latest/scale-to-width-down/250?cb=20250528021225"
+    },
+    "-1017845163": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/e/e7/Subsurfclassic1.png/revision/latest/scale-to-width-down/250?cb=20241214214728"
+    },
+    "-487324792": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/c/cd/SweetStreetTASHA.png/revision/latest/scale-to-width-down/250?cb=20251221163735"
+    },
+    "-1886993925": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/2/26/Vaunted1.png/revision/latest/scale-to-width-down/250?cb=20260208212857"
+    },
+    "-573684740": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/e/e7/Wakizashi1.png/revision/latest/scale-to-width-down/250?cb=20250528024004"
+    },
+    "-425685755": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/b/ba/ZephyrCruiser1.png/revision/latest/scale-to-width-down/250?cb=20250527110237"
+    }
+  },
+  "skins": {
+    "0": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/c/c5/Harini.png/revision/latest/scale-to-width-down/250?cb=20251130132304"
+    },
+    "27667358": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/5/5d/Billy1.png/revision/latest/scale-to-width-down/250?cb=20241212213447"
+    },
+    "213457242": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/7/7f/JakeTrackStarOutfit.png/revision/latest/scale-to-width-down/250?cb=20260216031105"
+    },
+    "288125499": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/e/ea/TashaCheer.png/revision/latest/scale-to-width-down/250?cb=20250730042439"
+    },
+    "362958220": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/5/5e/Jenny1.png/revision/latest/scale-to-width-down/250?cb=20241214181956"
+    },
+    "374299079": {
+      "type": "placeholder",
+      "value": "JAEWOO+LEGENDARY"
+    },
+    "389528075": {
+      "type": "placeholder",
+      "value": "ROSALITA+CHICANA"
+    },
+    "460586275": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/d/d6/Yutani1.png/revision/latest/scale-to-width-down/250?cb=20241212212208"
+    },
+    "577316046": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/6/6d/MissMaiaLegendaryOutfit.png/revision/latest/scale-to-width-down/250?cb=20260216151311"
+    },
+    "666084587": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/d/dc/V3ct0r.png/revision/latest/scale-to-width-down/250?cb=20260328045505"
+    },
+    "726823100": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/1/1b/Lucy1.png/revision/latest/scale-to-width-down/250?cb=20241214183300"
+    },
+    "748483822": {
+      "type": "placeholder",
+      "value": "NOON+TRUE+BLUE"
+    },
+    "772685907": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/7/72/FreshCoolVibesOutfit.png/revision/latest/scale-to-width-down/54?cb=20260216150317"
+    },
+    "775756685": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/c/ce/MissMaiaSummerRebel.png/revision/latest/scale-to-width-down/250?cb=20260216151143"
+    },
+    "816980720": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/9/9a/Ash1.png/revision/latest/scale-to-width-down/250?cb=20241214181455"
+    },
+    "922134811": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/b/b2/Spike1.png/revision/latest/scale-to-width-down/250?cb=20241212220815"
+    },
+    "1014902922": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/6/65/V3ct0rL3g3nd4ryOutfit.webp/revision/latest/scale-to-width-down/250?cb=20260327154008"
+    },
+    "1076495376": {
+      "type": "placeholder",
+      "value": "LUCY+LEGENDARY"
+    },
+    "1093072756": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/b/bd/Zara1.png/revision/latest/scale-to-width-down/250?cb=20260330163527"
+    },
+    "1119532892": {
+      "type": "placeholder",
+      "value": "GEORGIE+LEGENDARY"
+    },
+    "1136726127": {
+      "type": "placeholder",
+      "value": "GEORGIE+BLING"
+    },
+    "1150862217": {
+      "type": "placeholder",
+      "value": "ASH+GREEN+BLAZE"
+    },
+    "1154305282": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/4/42/MissMaiaCrewStyleOutfit.png/revision/latest/scale-to-width-down/250?cb=20260216151116"
+    },
+    "1189151463": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/9/93/NinjaOne1.png/revision/latest/scale-to-width-down/250?cb=20241212213728"
+    },
+    "1202249944": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/f/f1/Fresh1.png/revision/latest/scale-to-width-down/250?cb=20241212210750"
+    },
+    "1310049346": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/c/ca/FreshLegendaryOutfit.png/revision/latest/scale-to-width-down/55?cb=20260216150342"
+    },
+    "1335121268": {
+      "type": "placeholder",
+      "value": "MONIQUE+GREEN+SAVIOR"
+    },
+    "1478947346": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/6/63/YutaniLegendaryOutfit.png/revision/latest/scale-to-width-down/250?cb=20260217000508"
+    },
+    "1508371367": {
+      "type": "placeholder",
+      "value": "ELLA+PURPLE+HAZE"
+    },
+    "1564209559": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/f/fa/TrickyCrewStyleOutfit.png/revision/latest/scale-to-width-down/250?cb=20260216034520"
+    },
+    "1781172277": {
+      "type": "placeholder",
+      "value": "PRINCE+K+CRIMSON+BLAZE"
+    },
+    "1864637985": {
+      "type": "placeholder",
+      "value": "TAGBOT+SPORTS"
+    },
+    "1870421642": {
+      "type": "placeholder",
+      "value": "ZARA+HOLO+DASH"
+    },
+    "1962475607": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/a/a5/Noon1.png/revision/latest/scale-to-width-down/250?cb=20260216233639"
+    },
+    "1973379545": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/d/da/LucyGraveQueenOutfit.png/revision/latest/scale-to-width-down/250?cb=20260310151302"
+    },
+    "1990369193": {
+      "type": "placeholder",
+      "value": "ELLA+LEGENDARY"
+    },
+    "2025202852": {
+      "type": "placeholder",
+      "value": "BILLY+FIRE+AND+FLAMES"
+    },
+    "2085271833": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/b/ba/Georgie.png/revision/latest/scale-to-width-down/250?cb=20251130132224"
+    },
+    "-1959135014": {
+      "type": "placeholder",
+      "value": "BILLY+FEVER+DASH"
+    },
+    "-1067636066": {
+      "type": "placeholder",
+      "value": "BILLY+LEGENDARY"
+    },
+    "-93943772": {
+      "type": "placeholder",
+      "value": "ELLA+HELLO+YELLOW"
+    },
+    "-989991611": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/c/c9/Ella1.png/revision/latest/scale-to-width-down/250?cb=20241212221019"
+    },
+    "-1292355720": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/c/c6/FreshCrewStyleOutfit.png/revision/latest/scale-to-width-down/54?cb=20260216150235"
+    },
+    "-1648267179": {
+      "type": "placeholder",
+      "value": "GEORGIE+IDOL+SHIRT"
+    },
+    "-1360992679": {
+      "type": "placeholder",
+      "value": "JAEWOO+POISON+STING"
+    },
+    "-1505271108": {
+      "type": "placeholder",
+      "value": "JAEWOO+PURPLE+FAME"
+    },
+    "-1312276630": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/8/89/Jaewoo1.png/revision/latest/scale-to-width-down/250?cb=20241214181218"
+    },
+    "-960954917": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/5/53/JakeCrewStyleOutfit.png/revision/latest/scale-to-width-down/250?cb=20260216031121"
+    },
+    "-1186298654": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/1/1c/JakeGoldenBoyOutfit.png/revision/latest/scale-to-width-down/250?cb=20260216031146"
+    },
+    "-1882385935": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/8/88/JakeIncognitoOutfit.png/revision/latest/scale-to-width-down/250?cb=20260216031209"
+    },
+    "-848432295": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/9/9b/JakeiRunnerOutfit.png/revision/latest/scale-to-width-down/250?cb=20260216031010"
+    },
+    "-1087452012": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/5/58/JakeLegendaryOutfit.png/revision/latest/scale-to-width-down/250?cb=20260216031155"
+    },
+    "-56800546": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/c/c8/Jake1.png/revision/latest/scale-to-width-down/250?cb=20260125163230"
+    },
+    "-1566346654": {
+      "type": "placeholder",
+      "value": "JAY+LEGENDARY"
+    },
+    "-152602730": {
+      "type": "placeholder",
+      "value": "JAY+RAINBOW+SKY"
+    },
+    "-2145465549": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/e/e3/Jay1.png/revision/latest/scale-to-width-down/250?cb=20241212213447"
+    },
+    "-1287581543": {
+      "type": "placeholder",
+      "value": "JENNY+SOUL+STITCH"
+    },
+    "-1597270950": {
+      "type": "placeholder",
+      "value": "LILAH+OUTDOOR"
+    },
+    "-789829533": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/3/3b/Lilah1.png/revision/latest/scale-to-width-down/250?cb=20241214180046"
+    },
+    "-122811436": {
+      "type": "placeholder",
+      "value": "LUCY+DARK+ORCHID"
+    },
+    "-1083767387": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/f/ff/MissMaia1.png/revision/latest/scale-to-width-down/250?cb=20241212213444"
+    },
+    "-1415696609": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/a/aa/Monique1.png/revision/latest/scale-to-width-down/150?cb=20250301174300"
+    },
+    "-1253901889": {
+      "type": "placeholder",
+      "value": "NINJA+ONE+LEGENDARY"
+    },
+    "-672918755": {
+      "type": "placeholder",
+      "value": "NINJA+ONE+MONOFANTASTIC"
+    },
+    "-1112152883": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/4/4e/PrinceK1.png/revision/latest/scale-to-width-down/150?cb=20260330163557"
+    },
+    "-1487295210": {
+      "type": "placeholder",
+      "value": "ROSALITA+LEGENDARY"
+    },
+    "-1389912410": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/0/04/Rosalita1.png/revision/latest/scale-to-width-down/250?cb=20241212213447"
+    },
+    "-1655542994": {
+      "type": "placeholder",
+      "value": "SPIKE+LEGENDARY"
+    },
+    "-759788578": {
+      "type": "placeholder",
+      "value": "SPIKE+RED+REBEL"
+    },
+    "-209858400": {
+      "type": "placeholder",
+      "value": "TAGBOT+LEGENDARY"
+    },
+    "-1236251198": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/7/74/Tagbot1.png/revision/latest/scale-to-width-down/250?cb=20241212220813"
+    },
+    "-1312184589": {
+      "type": "placeholder",
+      "value": "TASHA+BRING+IT!"
+    },
+    "-889435486": {
+      "type": "placeholder",
+      "value": "TASHA+LEGENDARY"
+    },
+    "-503301639": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/8/89/Tasha1.png/revision/latest/scale-to-width-down/250?cb=20241214175130"
+    },
+    "-1583432582": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/6/6e/TrickyLegendaryOutfit.png/revision/latest/scale-to-width-down/250?cb=20260216034627"
+    },
+    "-820187263": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/2/2c/TrickyNeonStripesOutfit.png/revision/latest/scale-to-width-down/250?cb=20260216034603"
+    },
+    "-72574065": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/f/fd/Tricky1.png/revision/latest/scale-to-width-down/250?cb=20241212205745"
+    },
+    "-1857764588": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/6/69/V3ct0rPinkGlitchOutfit.webp/revision/latest/scale-to-width-down/250?cb=20260327153858"
+    },
+    "-2129570054": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/4/42/V3ct0rVirtu4lR3b3lOutfit.webp/revision/latest/scale-to-width-down/250?cb=20260327154132"
+    },
+    "-2092832313": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/6/6b/Wei1.png/revision/latest/scale-to-width-down/135?cb=20250301174232"
+    },
+    "-871825427": {
+      "type": "placeholder",
+      "value": "WEI+TRAVELLER%27S+HOODIE"
+    },
+    "-258476380": {
+      "type": "placeholder",
+      "value": "YUTANI+CREW+STYLE"
+    }
+  },
+  "currencies": {
+    "722065917": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/a/ab/TrailTicket.png/revision/latest/scale-to-width-down/75?cb=20251211205448"
+    },
+    "1669706535": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/1/13/Revive.png/revision/latest/scale-to-width-down/75?cb=20250329175925"
+    },
+    "-633437229": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/e/e6/Coinsscity.png/revision/latest/scale-to-width-down/75?cb=20241212193716"
+    },
+    "-1085419483": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/e/e1/Keysscity.png/revision/latest/scale-to-width-down/75?cb=20241212192912"
+    },
+    "-1509662453": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/4/47/Board_Credit.png/revision/latest/scale-to-width-down/75?cb=20251208225622"
+    },
+    "-1878560402": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/2/20/SurferCredit.png/revision/latest/scale-to-width-down/75?cb=20251208225545"
+    }
+  },
+  "icons": {
+    "city_tour": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/1/18/District_Icon.png/revision/latest/scale-to-width-down/75?cb=20251228182305"
+    },
+    "trials": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/9/9f/Trials_Icon.png/revision/latest/scale-to-width-down/75?cb=20251226004231"
+    },
+    "season_pass": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/2/27/SubwayPassIcon.png/revision/latest/scale-to-width-down/75?cb=20241212202416"
+    },
+    "season_pass_points": {
+      "type": "url",
+      "value": "https://static.wikia.nocookie.net/subway-surfer-city/images/1/19/SubwayPassToken.png/revision/latest/scale-to-width-down/75?cb=20241212202213"
+    }
+  }
+}

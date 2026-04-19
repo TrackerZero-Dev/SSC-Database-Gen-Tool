@@ -1,22 +1,30 @@
 {
   "surfers": {
-    "version": "2.1.0",
-    "generatedAt": "2026-04-05T13:54:55.371Z"
+    "version": "2.1.2",
+    "generatedAt": "2026-04-18T13:35:03.185Z"
   },
   "skins": {
-    "version": "2.1.0",
-    "generatedAt": "2026-04-05T13:54:55.371Z"
+    "version": "2.1.2",
+    "generatedAt": "2026-04-18T13:35:03.185Z"
   },
   "boards": {
-    "version": "2.1.0",
-    "generatedAt": "2026-04-05T13:54:55.371Z"
+    "version": "2.1.2",
+    "generatedAt": "2026-04-18T13:35:03.185Z"
   },
   "seasons": {
-    "version": "2.1.0",
-    "generatedAt": "2026-04-05T13:54:55.371Z"
+    "version": "2.1.2",
+    "generatedAt": "2026-04-18T13:35:03.185Z"
+  },
+  "trials": {
+    "version": "2.1.2",
+    "generatedAt": "2026-04-14T17:47:53.177Z"
   },
   "city_tour": {
-    "version": "2.1.0",
-    "generatedAt": "2026-04-03T09:50:27.673Z"
+    "version": "2.1.2",
+    "generatedAt": "2026-04-14T17:47:53.177Z"
+  },
+  "assetsMap": {
+    "version": "2.1.2",
+    "generatedAt": "2026-04-14T17:47:53.177Z"
   }
 }
